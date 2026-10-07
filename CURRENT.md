@@ -2,7 +2,7 @@
 
 **Updated:** 2026-10-07
 **Mode:** Candidate / pre-employment
-**Status:** ACTIVE
+**Status:** HOLD — candidate-stage SIE architecture complete pending new evidence
 
 ## Objective
 Build a durable CCL Revenue Operations operating environment that can move from interview-stage hypothesis to validated operating system if JET joins CCL.
@@ -14,66 +14,71 @@ Build a durable CCL Revenue Operations operating environment that can move from 
 - Signal Taxonomy v0.1 created and five commercial scenarios pressure-tested.
 - Signal Schema v0.2 created.
 - Signal Taxonomy v0.2 created: 7 domains / 21 signals with confidence separation, forecast lenses, dependencies, causal ordering, reason-code support, and MVP tiering.
-- Account/Entity modeling checkpoint completed: insufficient evidence exists to responsibly define CCL's actual domain model.
-- **CCL Account / Entity Discovery Framework v0.1 created** to define what must be learned before building the Account/Entity Model.
-- Actual Account/Entity Model intentionally deferred until evidence-led CCL lifecycle walkthroughs can validate terminology, entities, cardinalities, ownership, and system boundaries.
-
-## Current workstream
-**Signal Intelligence Engine (SIE) — Domain Discovery**
+- CCL Account / Entity Discovery Framework v0.1 created.
+- Actual Account/Entity Model deferred until internal evidence validates terminology, entities, cardinalities, ownership, and system boundaries.
+- **SIE Decision Contract v0.1 created**, defining the minimum reasoning and presentation standard for converting a signal into actionable intelligence.
+- Candidate-stage SIE architecture reviewed and placed on evidence-gated HOLD.
 
 ## Current architecture
 Signals → Account Intelligence → Prioritization → Recommended Action → Human Decision → Outcome → Learning
 
-The SIE signal layer is sufficiently developed for candidate-stage work. The next constraint is domain knowledge, not additional signal invention.
+## Decision Contract
+Before a signal should influence human action, SIE must make understandable:
+1. What changed?
+2. Why does it matter?
+3. What evidence supports it?
+4. How trustworthy is the data?
+5. How trustworthy is the interpretation?
+6. What material information is missing?
+7. What action is recommended and why?
+8. Who owns the judgment/action?
+9. What happened afterward?
 
-## Discovery framework
-The framework covers:
-- organization/account;
-- people/stakeholders;
-- opportunity/pipeline;
-- contract/commercial commitment;
-- delivery/program;
-- offering/line of business;
-- marketing source/campaign;
-- geography/region;
-- ownership;
-- revenue/financial realization.
+Proposed readiness states:
+**OBSERVE → INVESTIGATE → RECOMMEND → LEARN**
 
-All unvalidated relationship cardinalities remain **UNKNOWN**.
+These are design concepts, not current CCL workflow stages.
 
-## Recommended validation approach
-When internal access is available, trace representative real examples end-to-end:
-1. New-logo pursuit: Marketing → opportunity → contract → delivery → recognized revenue.
-2. Existing-client expansion.
-3. Global/complex client hierarchy.
-4. Contract/program shifted across fiscal periods.
-5. Representative examples from materially different lines of business.
+## Candidate-stage boundary
+The current constraint is evidence, not architecture.
 
-Capture terminology, IDs, systems of record, ownership, relationships, timestamps, exceptions, manual work, and reporting consequences.
+Do not proceed with CCL-specific:
+- production thresholds;
+- scoring weights;
+- Account/Entity cardinalities;
+- automated recommendations;
+- implementation architecture;
+- AI/ML design
 
-## Gate for Account/Entity Model v0.1
-Do not build the actual model until core lifecycle entities, major cardinalities, authoritative systems, offering differences, hierarchy/ownership rules, and booking-to-revenue linkage have been validated.
+until new internal evidence supports them.
 
-## Next action
-**Pause Account/Entity Model construction at the discovery gate.**
+Generic/SYNTHETIC prototyping remains possible if explicitly labeled and kept separate from CCL facts.
 
-Candidate-stage SIE architecture is now approaching the point where additional detail would create assumptions faster than evidence.
+## Resume condition
+Resume CCL-specific SIE architecture when:
+- JET joins CCL and gains internal discovery access;
+- authoritative CCL process/system documentation becomes available;
+- representative CRM/contract/delivery/finance data can be inspected; or
+- stakeholders validate previously UNKNOWN domain relationships or operating rules.
 
-Recommended next work should either:
-- identify another evidence-supported candidate-stage SIE question worth resolving; or
-- preserve this state and use the Discovery Framework as an early Day-0/transition artifact if JET joins CCL.
+On employee transition, perform the formal candidate → employee validation review before treating candidate-era material as operating truth.
 
 ## Blockers
 - Actual Account/Entity Model requires internal CCL domain evidence.
-- No direct access yet to CRM/data architecture.
-- Production thresholds cannot be validated.
-- Final CCL nomenclature, ownership model, account hierarchy, and system-of-record boundaries require validation.
+- Production thresholds require historical/internal data.
+- Implementation architecture requires system/process discovery.
+- Final CCL nomenclature, ownership, hierarchy, and system-of-record boundaries remain unvalidated.
 
 ## Open decisions
 - Final SIE name and CCL-facing terminology.
-- Minimum viable implementation layer after internal discovery: CRM-native, BI/data layer, or hybrid.
-- Final MVP signal set after entity-model validation.
-- CCL account hierarchy and entity-resolution rules.
+- Implementation layer after internal discovery: CRM-native, BI/data layer, or hybrid.
+- Final MVP signal set after validation.
+- Account hierarchy and entity-resolution rules.
+
+## Next action
+**Preserve SIE candidate-stage architecture. Do not extend it without new evidence.**
+
+If the CCL opportunity advances, use the Discovery Framework and Decision Contract as transition assets.
 
 ## Resume command
-**GO DISCOVERY REVIEW**
+**GO CCL EVIDENCE UPDATE**
