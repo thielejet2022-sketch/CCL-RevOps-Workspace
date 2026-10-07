@@ -13,6 +13,8 @@ Build a durable CCL Revenue Operations operating environment that can move from 
 - Candidate-mode evidence/hypothesis boundary established.
 - Signal Intelligence Engine selected as first governed workstream.
 - Initial SIE charter and signal schema scaffold created.
+- Evidence-state vocabulary aligned between the ChatGPT Project and GitHub governance.
+- ADR-0002 adopted: KNOWN / REPORTED / HYPOTHESIS / ASSUMPTION / SYNTHETIC / UNKNOWN, with PROPOSED retained separately as design status.
 
 ## Current workstream
 **Signal Intelligence Engine (SIE)**
@@ -22,7 +24,7 @@ Goal: turn fragmented commercial signals across Sales, Marketing, Finance, custo
 ## Known context
 Interview work has surfaced potential needs involving pipeline visibility, CRM usage consistency, forecasting, existing-account opportunity, commercial timing, capacity/utilization, and cross-functional RevOps alignment.
 
-These remain **candidate-stage observations/hypotheses** until validated with CCL stakeholders and source systems.
+These remain **candidate-stage reported observations, hypotheses, assumptions, or unknowns** unless supported by authoritative CCL evidence and promoted to **KNOWN**.
 
 ## Next action
 Define the **CCL Signal Taxonomy v0.1**:

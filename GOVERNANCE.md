@@ -5,13 +5,19 @@ GitHub is the governed source of truth for durable RevOps frameworks, definition
 
 ## Evidence states
 Every material CCL-specific assertion should be identifiable as:
-- **VALIDATED** — supported by an authoritative CCL source, system, document, or stakeholder confirmation.
-- **OBSERVED** — directly heard or seen, but interpretation may still require validation.
-- **HYPOTHESIS** — plausible working assumption requiring testing.
-- **PROPOSED** — a recommended future-state design.
-- **UNKNOWN** — explicitly unresolved.
+- **KNOWN** — supported by authoritative evidence such as a CCL system, document, policy, or otherwise reliable source.
+- **REPORTED** — stated by a CCL stakeholder but not yet independently validated.
+- **HYPOTHESIS** — plausible interpretation or belief that requires testing.
+- **ASSUMPTION** — not yet validated, but temporarily treated as true so work can proceed.
+- **SYNTHETIC** — deliberately invented data, examples, scenarios, or structures used for prototypes, testing, or illustration.
+- **UNKNOWN** — information that is not yet available or remains unresolved.
 
-Do not silently promote a hypothesis into fact.
+Do not silently promote a hypothesis, assumption, reported statement, or synthetic example into known fact.
+
+### Design status
+**PROPOSED** is a design-status label, not an evidence state. Use it for recommended future-state processes, schemas, operating models, fields, workflows, automations, metrics, or architecture that have not been approved or implemented.
+
+A proposed design may also rely on assumptions or hypotheses. Keep those evidence states explicit.
 
 ## Candidate-mode boundary
 Until JET is an authorized CCL employee with appropriate access, do not represent proposed designs as current CCL process; do not assume system fields, stages, integrations, ownership, metrics, or data quality; keep interview-derived information distinguishable from validated operating documentation; and avoid storing sensitive information that does not belong in this repository.
