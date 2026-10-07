@@ -2,7 +2,7 @@
 
 **Updated:** 2026-10-07
 **Mode:** Candidate / pre-employment
-**Status:** HOLD — candidate-stage SIE architecture complete pending new evidence
+**Status:** HOLD — candidate-stage SIE architecture complete; new delivery evidence captured without extending production architecture
 
 ## Objective
 Build a durable CCL Revenue Operations operating environment that can move from interview-stage hypothesis to validated operating system if JET joins CCL.
@@ -18,6 +18,8 @@ Build a durable CCL Revenue Operations operating environment that can move from 
 - Actual Account/Entity Model deferred until internal evidence validates terminology, entities, cardinalities, ownership, and system boundaries.
 - **SIE Decision Contract v0.1 created**, defining the minimum reasoning and presentation standard for converting a signal into actionable intelligence.
 - Candidate-stage SIE architecture reviewed and placed on evidence-gated HOLD.
+- New public-profile and stakeholder evidence captured for the CCL delivery organization, including LSP, LSP Team Manager, Implementation Manager, faculty, adjunct, and design-resource concepts.
+- **Contract-to-Cash Organizational / Process Map v0.1 created**, extending the evidence map from demand and opportunity through contract, design, implementation, resource readiness, delivery, invoice/cash, and revenue recognition.
 
 ## Current architecture
 Signals → Account Intelligence → Prioritization → Recommended Action → Human Decision → Outcome → Learning
@@ -76,9 +78,11 @@ On employee transition, perform the formal candidate → employee validation rev
 - Account hierarchy and entity-resolution rules.
 
 ## Next action
-**Preserve SIE candidate-stage architecture. Do not extend it without new evidence.**
+**Preserve SIE candidate-stage architecture while continuing evidence capture.**
 
-If the CCL opportunity advances, use the Discovery Framework and Decision Contract as transition assets.
+Use the Contract-to-Cash Organizational / Process Map v0.1 as the working evidence map for future stakeholder/profile discoveries. Do not convert candidate-stage observations into production stages, fields, ownership rules, thresholds, or automation without internal validation.
+
+If the CCL opportunity advances, use the Discovery Framework, Decision Contract, and Contract-to-Cash map as transition assets.
 
 ## Resume command
 **GO CCL EVIDENCE UPDATE**
