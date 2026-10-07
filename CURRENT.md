@@ -20,6 +20,7 @@ Build a durable CCL Revenue Operations operating environment that can move from 
 - Candidate-stage SIE architecture reviewed and placed on evidence-gated HOLD.
 - New public-profile and stakeholder evidence captured for the CCL delivery organization, including LSP, LSP Team Manager, Implementation Manager, faculty, adjunct, and design-resource concepts.
 - **Contract-to-Cash Organizational / Process Map v0.1 created**, extending the evidence map from demand and opportunity through contract, design, implementation, resource readiness, delivery, invoice/cash, and revenue recognition.
+- **CCL Business & Data Dictionary v0.1 created** with GitHub as canonical source and Notion as the human-readable view. Every new term requires Category, State, and Source, using the workspace evidence-state vocabulary.
 
 ## Current architecture
 Signals → Account Intelligence → Prioritization → Recommended Action → Human Decision → Outcome → Learning
@@ -80,7 +81,7 @@ On employee transition, perform the formal candidate → employee validation rev
 ## Next action
 **Preserve SIE candidate-stage architecture while continuing evidence capture.**
 
-Use the Contract-to-Cash Organizational / Process Map v0.1 as the working evidence map for future stakeholder/profile discoveries. Do not convert candidate-stage observations into production stages, fields, ownership rules, thresholds, or automation without internal validation.
+Use the Contract-to-Cash Organizational / Process Map v0.1 and governed Business & Data Dictionary as working evidence assets for future stakeholder/profile discoveries. Do not convert candidate-stage observations into production stages, fields, ownership rules, thresholds, or automation without internal validation.
 
 If the CCL opportunity advances, use the Discovery Framework, Decision Contract, and Contract-to-Cash map as transition assets.
 
