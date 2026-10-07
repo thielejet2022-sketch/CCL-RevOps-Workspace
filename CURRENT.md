@@ -9,44 +9,37 @@ Build a durable CCL Revenue Operations operating environment that can move from 
 
 ## Completed
 - CCL GitHub repository created and connected.
-- Initial governance architecture established.
-- Candidate-mode evidence/hypothesis boundary established.
+- Governance architecture and candidate-mode evidence boundary established.
+- Evidence-state vocabulary aligned; ADR-0002 adopted.
+- Canonical entity-name governance added; **Demetreus Lancsweert** is the canonical spelling.
 - Signal Intelligence Engine selected as first governed workstream.
-- Initial SIE charter and signal schema scaffold created.
-- Evidence-state vocabulary aligned between the ChatGPT Project and GitHub governance.
-- ADR-0002 adopted: KNOWN / REPORTED / HYPOTHESIS / ASSUMPTION / SYNTHETIC / UNKNOWN, with PROPOSED retained separately as design status.
 - CCL Signal Taxonomy v0.1 created with 7 domains and 21 candidate-stage signals.
-- Signal schema v0.1 updated to align with governed evidence states and separate evidence state from design status.
-- Canonical entity-name governance added.
-- **Demetreus Lancsweert** established as the canonical stakeholder spelling; conflicting transcript/file variants must not propagate into newly authored material.
+- Five concrete commercial scenarios tested against Signal Taxonomy v0.1.
+- Scenario testing validated the 7-domain structure and identified architecture refinements.
+- Signal Schema v0.2 created with separate data/interpretation confidence, signal dependencies, forecast lens, and reason-code support.
+- Existing Signal Taxonomy v0.1 corrected to use the canonical spelling **Demetreus**.
 
 ## Current workstream
 **Signal Intelligence Engine (SIE)**
 
-Goal: turn fragmented commercial signals across Sales, Marketing, Finance, customer/account activity, delivery/capacity, data/process, and external conditions into governed intelligence that improves decisions, forecasting, prioritization, and intervention.
+## Scenario-test conclusions
+1. Commercial/booking probability and revenue-realization timing must remain separate forecast lenses.
+2. Data/process exceptions can reduce confidence in downstream commercial signals.
+3. Signal confidence must distinguish data confidence from interpretation confidence.
+4. Marketing signals should diagnose the conversion break before assigning functional fault.
+5. Expansion recommendations should remain explainable hypotheses until the account/entity model and supporting data are validated.
+6. No v0.1 signal was removed.
 
-## Current design state
-Signal Taxonomy v0.1 includes:
-- Sales / Pipeline
-- Marketing / Demand
-- Account / Expansion
-- Finance / Commercial Timing
-- Delivery / Capacity
-- Data / Process
-- External / Strategic
-
-The taxonomy is deliberately implementation-neutral and contains no production thresholds.
-
-## Identity governance
-Canonical CCL stakeholder/entity names are maintained in `reference/canonical-entities.md`. New analysis and durable artifacts must use those spellings even when source transcripts or filenames contain conflicting variants.
+## MVP candidates
+Tier 1:
+- S-FIN-002 Scheduled Revenue Date Shift
+- S-FIN-003 Pipeline-to-Recognition Window Risk
+- S-DAT-001 CRM Adoption / Regional Process Exception
+- S-MKT-001 Lead Quality / Sales Acceptance Gap
+- S-MKT-002 Campaign Attribution Feedback Gap
 
 ## Next action
-Test **CCL Signal Taxonomy v0.1** against five concrete commercial scenarios:
-1. $900K scheduled program shifts across fiscal years.
-2. Large strategic opportunity remains in pipeline but delivery lead time makes current-year recognition unlikely.
-3. Region manages pipeline outside CRM, degrading forecast and attribution.
-4. Marketing campaign produces lead volume but weak sales acceptance/conversion.
-5. Existing account shows plausible expansion opportunity with no active pursuit.
+Apply the scenario-test findings to create **Signal Taxonomy v0.2**, then define the **CCL Account/Entity Model v0.1** before attempting expansion scoring or richer account intelligence.
 
 ## Blockers
 - No direct access yet to CCL CRM/data architecture.
@@ -55,9 +48,9 @@ Test **CCL Signal Taxonomy v0.1** against five concrete commercial scenarios:
 
 ## Open decisions
 - Final SIE name and CCL-facing terminology.
-- Minimum viable implementation layer after scenario testing: CRM-native, BI/data layer, or hybrid.
-- Whether Account/Expansion remains standalone after deeper client-lifecycle discovery.
-- Which signals are MVP versus later-stage.
+- Minimum viable implementation layer after model design: CRM-native, BI/data layer, or hybrid.
+- Final MVP signal set after v0.2 taxonomy refinement.
+- CCL account hierarchy and entity-resolution rules.
 
 ## Resume command
-**GO TEST SIGNAL SCENARIOS**
+**GO SIGNAL TAXONOMY V0.2**

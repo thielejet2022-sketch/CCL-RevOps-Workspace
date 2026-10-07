@@ -25,7 +25,7 @@ Signal concepts below are classified using the governed evidence model:
 The taxonomy is grounded primarily in:
 - CCL Director, Revenue Operations job description.
 - Sarah Nabors interview, 2026-09-04.
-- Demetrius Lancsweert interview, 2026-09-25.
+- Demetreus Lancsweert interview, 2026-09-25.
 - David Moore interview, 2026-10-06.
 
 Stakeholder statements are treated as **REPORTED** unless independently supported by authoritative documentation or systems.
@@ -58,7 +58,7 @@ Stakeholder statements are treated as **REPORTED** unless independently supporte
 
 ### S-PIP-003 — Large-Deal Conversion Risk
 - **Evidence state:** REPORTED
-- **Evidence basis:** Demetrius reported more $1M+ pursuits while win rate was declining and described a need to improve pursuit effectiveness.
+- **Evidence basis:** Demetreus reported more $1M+ pursuits while win rate was declining and described a need to improve pursuit effectiveness.
 - **Candidate source/system:** CRM + pursuit activity + competitive/deal review data
 - **Entity level:** Opportunity
 - **Trigger:** Strategic/high-value opportunity shows weak progression, low engagement, competitive disadvantage, or conversion characteristics associated with prior losses.
@@ -84,7 +84,7 @@ Stakeholder statements are treated as **REPORTED** unless independently supporte
 
 ### S-MKT-001 — Lead Quality / Sales Acceptance Gap
 - **Evidence state:** KNOWN + REPORTED
-- **Evidence basis:** Job description requires Marketing/Sales alignment on lead quality and handoffs; Demetrius reported difficulty converting marketing activity into usable feedback.
+- **Evidence basis:** Job description requires Marketing/Sales alignment on lead quality and handoffs; Demetreus reported difficulty converting marketing activity into usable feedback.
 - **Candidate source/system:** Marketing automation + CRM
 - **Entity level:** Lead / campaign / segment
 - **Trigger:** Marketing-qualified leads show materially lower sales acceptance or conversion than agreed benchmark.
@@ -95,7 +95,7 @@ Stakeholder statements are treated as **REPORTED** unless independently supporte
 
 ### S-MKT-002 — Campaign Attribution Feedback Gap
 - **Evidence state:** REPORTED
-- **Evidence basis:** Sarah and Demetrius described difficulty feeding downstream results back to Marketing to determine what is working.
+- **Evidence basis:** Sarah and Demetreus described difficulty feeding downstream results back to Marketing to determine what is working.
 - **Candidate source/system:** Marketing automation + CRM + revenue data
 - **Entity level:** Campaign / channel
 - **Trigger:** Campaign-generated leads or opportunities cannot be reliably connected to downstream pipeline, revenue, or loss outcome.
@@ -106,7 +106,7 @@ Stakeholder statements are treated as **REPORTED** unless independently supporte
 
 ### S-MKT-003 — ICP Fit Exception
 - **Evidence state:** REPORTED
-- **Evidence basis:** Demetrius reported CCL has an ICP definition but is not consistently strict in using it to drive acceptance and focus.
+- **Evidence basis:** Demetreus reported CCL has an ICP definition but is not consistently strict in using it to drive acceptance and focus.
 - **Candidate source/system:** CRM + enrichment / firmographic source
 - **Entity level:** Lead / account / opportunity
 - **Trigger:** New prospect materially falls outside validated ICP criteria but enters active pursuit.
@@ -117,7 +117,7 @@ Stakeholder statements are treated as **REPORTED** unless independently supporte
 
 ### S-MKT-004 — New-Logo Generation Weakness
 - **Evidence state:** REPORTED
-- **Evidence basis:** Demetrius described new-business acquisition as a major challenge and cited weak outbound and marketing-generated lead performance.
+- **Evidence basis:** Demetreus described new-business acquisition as a major challenge and cited weak outbound and marketing-generated lead performance.
 - **Candidate source/system:** CRM + marketing + sales activity
 - **Entity level:** Segment / region / period
 - **Trigger:** New-logo qualified pipeline creation, outbound conversion, or marketing-sourced new-business creation falls below plan or historical benchmark.
@@ -158,7 +158,7 @@ Stakeholder statements are treated as **REPORTED** unless independently supporte
 
 ### S-FIN-001 — Won-but-Unscheduled Revenue Risk
 - **Evidence state:** REPORTED
-- **Evidence basis:** David and Demetrius described a gap between contract win and delivery/recognition; won contracts may not yet have an executable program date.
+- **Evidence basis:** David and Demetreus described a gap between contract win and delivery/recognition; won contracts may not yet have an executable program date.
 - **Candidate source/system:** CRM + contract + project/program system
 - **Entity level:** Contract / opportunity / program
 - **Trigger:** Contract is won but required delivery/program dates are absent, tentative, or outside the expected realization window.
@@ -180,7 +180,7 @@ Stakeholder statements are treated as **REPORTED** unless independently supporte
 
 ### S-FIN-003 — Pipeline-to-Recognition Window Risk
 - **Evidence state:** REPORTED
-- **Evidence basis:** Demetrius reported that later in the fiscal year, newly won deals may have too little time to be scheduled and executed before year end.
+- **Evidence basis:** Demetreus reported that later in the fiscal year, newly won deals may have too little time to be scheduled and executed before year end.
 - **Candidate source/system:** CRM + historical contract-to-delivery cycle + fiscal calendar
 - **Entity level:** Opportunity
 - **Trigger:** Expected close date plus expected post-sale delivery lead time extends beyond the target recognition period.
@@ -191,7 +191,7 @@ Stakeholder statements are treated as **REPORTED** unless independently supporte
 
 ### S-FIN-004 — Contract-to-Cash Cycle Delay
 - **Evidence state:** REPORTED
-- **Evidence basis:** David and Demetrius described the long path from prospect to contract to design/delivery to invoice/cash.
+- **Evidence basis:** David and Demetreus described the long path from prospect to contract to design/delivery to invoice/cash.
 - **Candidate source/system:** CRM + contracts + project system + ERP
 - **Entity level:** Account / opportunity / program
 - **Trigger:** Any major interval in contract → schedule → delivery → invoice → cash exceeds validated norm or commitment.
