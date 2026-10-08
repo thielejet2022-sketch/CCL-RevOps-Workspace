@@ -87,3 +87,10 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 
 ## Resume command
 **GO CCL EVIDENCE UPDATE**
+
+## Evidence update — 2026-10-08
+- Bill Adams October 8 interview mined for custom-account roles, LSP staffing, Passport scope and delivery capacity.
+- [Bill Adams → SIE v0.2 reconciliation](docs/signal-intelligence-engine/bill-adams-reconciliation-2026-10-08.md) created: 13 candidates classified as 8 extensions, 3 potential new signals, 2 cross-domain compositions.
+- Existing 21-signal taxonomy remains unchanged; candidate-stage evidence-gated HOLD remains in force.
+- **Next:** validate Passport entitlements, LSP allocation/time tracking and formal handoff governance when authorized CCL evidence becomes available.
+- **Resume:** GO CCL EVIDENCE UPDATE
