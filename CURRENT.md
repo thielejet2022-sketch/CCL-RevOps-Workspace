@@ -94,3 +94,9 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 - Existing 21-signal taxonomy remains unchanged; candidate-stage evidence-gated HOLD remains in force.
 - **Next:** validate Passport entitlements, LSP allocation/time tracking and formal handoff governance when authorized CCL evidence becomes available.
 - **Resume:** GO CCL EVIDENCE UPDATE
+
+## Discovery checklist committed — 2026-10-08
+- [Design and Delivery Discovery Checklist](docs/signal-intelligence-engine/design-delivery-discovery-2026-10-08.md) committed, covering Passport scope, LSP allocation and contract-to-delivery handoffs.
+- All questions are candidate-stage discovery prompts; existing SIE taxonomy v0.2 remains unchanged and evidence-gated HOLD continues.
+- Next: validate resource-allocation decision ownership and Passport design entitlements with authorized stakeholders when appropriate.
+- Resume: GO CCL EVIDENCE UPDATE
