@@ -49,8 +49,8 @@ Validate offering-specific revenue architecture using the proposed product × GT
 These are inventory entries, not completion certification. Find the original artifact before reconstructing or duplicating it. Preserve explicit PAUSE instructions; verification does not resume the underlying build.
 
 ## Next action
-**Pressure-test the GTM Motion Validation Worksheet with SYNTHETIC employer-sponsored enrollment and Passport cases.**
-Test M2 merge/keep boundaries and Passport entitlement/service economics. Internal validation follows when authorized case evidence is available. The earlier artifact-register verification queue remains pending.
+**Build the minimum internal evidence request by GTM motion.**
+Synthetic employer-sponsored enrollment and Passport tests are complete; worksheet revised to v0.2. Request actual buying-event, entitlement, cost/capacity, routing and lifecycle evidence when authorized. Earlier artifact-register verification remains pending.
 
 ## Blockers
 - None for verifying accessible artifacts.
@@ -65,7 +65,7 @@ Test M2 merge/keep boundaries and Passport entitlement/service economics. Intern
 - Original SIE implementation/MVP/account-hierarchy decisions remain open.
 
 ## Resume command
-**GO — TEST THE GTM MOTION WORKSHEET**
+**GO — BUILD THE GTM EVIDENCE REQUEST**
 
 ## Prior SIE checkpoint — historical reference
 The material below preserves the October 7–8 checkpoint. Its next-action and resume-command sections are historical; the current queue above supersedes them.
@@ -191,3 +191,11 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 - Next: synthetic sponsored-enrollment and Passport tests. No production SIE changes; candidate/pre-employment and HOLD boundaries remain.
 - Blockers: none for synthetic testing; authorized internal cases and confirmed ownership are required for real validation.
 - Resume: **GO — TEST THE GTM MOTION WORKSHEET**
+
+## Synthetic motion worksheet tests — 2026-10-12
+- Created [test findings](docs/revenue-architecture/gtm-motion-synthetic-tests-2026-10-12.md): reimbursement counterexample, organizational seat commitment and Passport entitlement/adoption case.
+- Refined [worksheet to v0.2](docs/revenue-architecture/gtm-motion-validation-worksheet-v0.1.md), retaining its stable path.
+- Tests separate funding from buying motion, wrong route from poor fit, incremental from allocated costs, entitled from paid scope, modeled from observed recovery, and immature retention from zero.
+- All cases/amounts/terms are SYNTHETIC. Real CCL motion dispositions remain DEFER; no production SIE changes.
+- Next: minimum internal evidence request by motion. Blockers: none for drafting; actual validation needs authorized evidence and confirmed owners.
+- Resume: **GO — BUILD THE GTM EVIDENCE REQUEST**
