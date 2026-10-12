@@ -1,4 +1,4 @@
-# CCL Demand-Quality Diagnostic v0.1
+# CCL Demand-Quality Diagnostic v0.2
 Date: 2026-10-12
 Mode: Candidate / pre-employment
 Design status: PROPOSED discovery instrument. No CCL performance findings, targets, ownership assignments or production configuration established.
@@ -64,10 +64,10 @@ For organizational pursuits, Marketing can capture Situation and possible Pain; 
 | Primary diagnosis / contributing diagnoses / confidence | UNKNOWN |
 | Recommended action, owner, due date, next review | UNKNOWN |
 
-Use Yes / No / UNKNOWN for fit, readiness, correct routing and execution compliance. Missing data is not a failed qualification test. Record confidence separately from commercial attractiveness.
+Use Yes / No / UNKNOWN for fit, readiness, correct routing and execution compliance. Missing data is not a failed qualification test. Record confidence separately from commercial attractiveness. Use UNRESOLVED when evidence cannot select a primary diagnosis. Observed delay or correlation does not establish causal revenue loss.
 
 ## 4. Disposition and diagnosis dictionary
-Use one current disposition plus primary and contributing reason codes; retain history rather than overwriting earlier decisions.
+Use one current disposition plus primary and contributing reason codes; retain history rather than overwriting earlier decisions. Capture stage-entry/disposition timestamps and observation cutoff. Report ever-rerouted incidence separately from current reroute status. Duplicate/linked is a source-record status: linked duplicates do not add buying events or enter unique-event disposition percentages; retain duplicate-record rates separately.
 | Disposition | Meaning | Required next action |
 |---|---|---|
 | Accept | Suitable for the identified sales/service motion | Owner, first action and dated next step |
@@ -96,17 +96,17 @@ Every published metric needs unit, numerator, denominator, cohort entry, observa
 | Acceptance / recycle / reject / reroute / pending mix | Each current disposition / all eligible handoffs in the same cohort | Compare together; acceptance alone can be gamed |
 | Fit assessment coverage | Handoffs with evidence-based fit determination / eligible handoffs | Reliability of fit rate |
 | Confirmed fit rate | Confirmed-fit handoffs / assessed handoffs | Report assessed and unknown counts alongside |
-| Response compliance | Handoffs due for response that meet agreed standard / handoffs due | Separates execution from quality |
+| Response compliance | Compliant / eligible due handoffs with an agreed standard; show noncompliant and unknown shares and evidence coverage | Separates execution from quality |
 | Qualified-opportunity conversion | Unique handoff buying events producing validated opportunities / eligible handoff buying events | Organizational motions; one event counted once |
 | Enrollment/order conversion | Buying events producing confirmed enrollment/order / eligible enrollment/order buying events | M1; separate participant and payer measures where needed |
-| Progression and win rate | Events reaching next gate / eligible events entering prior gate; won / resolved opportunities | Also show open cohort count and maturity |
+| Progression and win rate | Events reaching next gate / eligible events entering prior gate; won / resolved opportunities (won + lost + closed/no-decision) | Also show open cohort count and maturity |
 | Velocity | Median and upper-quartile elapsed time between specified events | Show still-open aging separately; define clock and pauses |
 | Qualified pipeline created | Unduplicated initial qualified opportunity value; record later value changes separately | State valuation basis and confidence; not revenue |
 | Acquisition efficiency | Attributable acquisition spend / new acquired units; optionally spend / qualified demand units | Distinguish CAC from cost per qualified demand; include cost boundaries and lag |
 | Bookings and downstream economics | Commitments under validated definition; contribution under Finance-approved cost basis | Keep delivery, revenue, invoice and cash measures separate |
 
 Compare equal-maturity cohorts by offering/motion, region, lifecycle type and source. Deduplicate buying events and account identities; multiple contacts do not create multiple organizational opportunities. Motion changes retain lineage and are not counted as fresh demand.
-Do not pool individual enrollment with custom opportunity conversion. Report counts, missingness and uncertainty. Targets and follow-up time standards remain UNKNOWN until agreed and supported by evidence.
+Do not pool individual enrollment with custom opportunity conversion. Report counts, missingness and uncertainty. Targets and follow-up time standards remain UNKNOWN until agreed and supported by evidence. Cases without an agreed response standard are not assessable for SLA compliance and must be disclosed separately. For eligible due cases, unknown response evidence is neither compliant nor a verified breach. If reporting compliance among assessed cases, also show assessment coverage. Report won/created-to-date separately from won/resolved and show open counts.
 Marketing-sourced and marketing-influenced are separate attribution views; influenced revenue is not incremental causal revenue. Attribution cannot prove campaign lift. Use controlled/holdout tests where feasible.
 
 ## 6. Trapped-value review
@@ -150,5 +150,5 @@ Proposed responsibility model to validate: Marketing owns audience/message/campa
 No actual CCL customer data or performance is represented.
 
 ## Completion and next test
-The diagnostic is complete as a blank PROPOSED instrument. Test it with synthetic enrollment and custom-solution cases, including disagreement, unknown data, rerouting and stalled follow-up.
+The diagnostic is complete as a blank PROPOSED instrument. [Synthetic test findings](demand-quality-synthetic-tests-2026-10-12.md) cover enrollment/custom cases and adversarial variants; v0.2 incorporates five measurement refinements. Synthetic calibration does not validate actual CCL processes. Next: joint Marketing–Sales calibration agenda.
 Real diagnosis requires authorized case evidence, approved ownership, metric definitions and sufficient cohort coverage. Production SIE remains on HOLD; no taxonomy, score, threshold, workflow or D365 configuration is changed.
