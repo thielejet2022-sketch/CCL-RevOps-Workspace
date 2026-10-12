@@ -6,7 +6,7 @@
 **SIE production status:** Evidence-gated HOLD. Existing taxonomy v0.2 and schema v0.2 remain unchanged.
 
 ## Current workstream and objective
-Reconcile the broader CCL preparation portfolio with canonical project state, retaining source links, evidence boundaries and a single resume pointer. SIE is one workstream within Marketing, Sales, Delivery, Finance and the client lifecycle.
+Validate offering-specific revenue architecture using the proposed product × GTM motion matrix and its reusable discovery worksheet. Four motions remain candidates; no CCL motion count or production workflow is established. Earlier artifact-register verification remains pending; other paused builds remain paused.
 
 ## Completed in this reconciliation
 - Retrieved README.md, GOVERNANCE.md and the prior CURRENT.md; applied canonical naming and evidence-state rules.
@@ -49,8 +49,8 @@ Reconcile the broader CCL preparation portfolio with canonical project state, re
 These are inventory entries, not completion certification. Find the original artifact before reconstructing or duplicating it. Preserve explicit PAUSE instructions; verification does not resume the underlying build.
 
 ## Next action
-**Verify the remaining CCL artifact register, beginning with the brand standards guide and branded Bowtie visuals.**
-Locate original artifacts and inspect contents, provenance and destination before marking complete. Preserve paused builds; verification does not resume them. Notion 00 CURRENT is now synchronized.
+**Pressure-test the GTM Motion Validation Worksheet with SYNTHETIC employer-sponsored enrollment and Passport cases.**
+Test M2 merge/keep boundaries and Passport entitlement/service economics. Internal validation follows when authorized case evidence is available. The earlier artifact-register verification queue remains pending.
 
 ## Blockers
 - None for verifying accessible artifacts.
@@ -65,7 +65,7 @@ Locate original artifacts and inspect contents, provenance and destination befor
 - Original SIE implementation/MVP/account-hierarchy decisions remain open.
 
 ## Resume command
-**GO — VERIFY THE CCL ARTIFACT REGISTER**
+**GO — TEST THE GTM MOTION WORKSHEET**
 
 ## Prior SIE checkpoint — historical reference
 The material below preserves the October 7–8 checkpoint. Its next-action and resume-command sections are historical; the current queue above supersedes them.
@@ -183,3 +183,11 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 - Blockers: none for proposed worksheet; internal evidence required to validate motions and targets.
 - Open decision: whether organizational program buying is its own motion or a branch of enrollment/consultative selling.
 - Resume command: **GO — BUILD THE GTM MOTION VALIDATION WORKSHEET**
+
+## GTM motion validation worksheet checkpoint — 2026-10-12
+- Created [GTM Motion Validation Worksheet v0.1](docs/revenue-architecture/gtm-motion-validation-worksheet-v0.1.md), linked to the product-motion matrix.
+- Includes session/evidence register, common motion card, four motion-specific tests, actual case trace, economics/metric readiness, keep/merge/split/defer decision and portfolio summary.
+- Worksheet blank entries remain UNKNOWN; initial motion dispositions are DEFER pending evidence. This is a PROPOSED discovery instrument, not completed internal validation.
+- Next: synthetic sponsored-enrollment and Passport tests. No production SIE changes; candidate/pre-employment and HOLD boundaries remain.
+- Blockers: none for synthetic testing; authorized internal cases and confirmed ownership are required for real validation.
+- Resume: **GO — TEST THE GTM MOTION WORKSHEET**
