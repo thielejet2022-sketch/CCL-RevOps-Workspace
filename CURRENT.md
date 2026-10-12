@@ -15,7 +15,7 @@ Reconcile the broader CCL preparation portfolio with canonical project state, re
 - Reviewed the D365 diagnostic, including Finance/delivery/decision-rights refinements and brand-research integration. D365 is JET-confirmed current CRM; deployed modules, integrations and source boundaries remain UNKNOWN. Potential migration is separate from current CRM.
 - Retrieved the repository customer-advocacy validation document dated October 11. It preserves public-evidence provenance, unknown account matching and consent, and no taxonomy change; its external sources were not independently revalidated in this reconciliation.
 - Verified live Airtable schema: CCL People, linked Relationship Notes, and Meeting Briefing Log exist. People includes First Name, Last Name and JET_Met. This is a source-reported directory, not an authoritative CCL HR roster.
-- Reviewed the Knowledge Consolidation Manifest and Notion 00 CURRENT. Notion's October 7 handoff is stale: dictionary remains listed as next, and hiring/interview language predates newer work. It has not been updated in this pass.
+- Reviewed the Knowledge Consolidation Manifest and synchronized Notion 00 CURRENT on October 12. Removed the obsolete dictionary-next queue, corrected current CRM and financial-sequence boundaries, preserved existing reference links and reserved deep dives, and verified the updated page. Hiring status remains unresolved.
 
 ## Verified artifact pointers
 - [WBD overview and six-model learning framework](https://app.notion.com/p/3f7550a77019818bb9f4f71a8f5325f1)
@@ -26,7 +26,7 @@ Reconcile the broader CCL preparation portfolio with canonical project state, re
 - [Customer advocacy validation](docs/signal-intelligence-engine/customer-advocacy-validation-2026-10-11.md)
 - [CCL People Directory](https://airtable.com/appEos8J9kEldWjiy)
 - [Knowledge Consolidation Manifest](https://app.notion.com/p/3f4550a77019819fb30fe57d9598efb1)
-- [Notion 00 CURRENT reference view requiring synchronization](https://app.notion.com/p/3f2550a7701981a68226c9f9ea2b16aa)
+- [Notion 00 CURRENT synchronized reference view](https://app.notion.com/p/3f2550a7701981a68226c9f9ea2b16aa)
 
 ## Evidence and interpretation boundaries
 - Artifact existence and reviewed content are verified; they do not prove adoption or actual CCL operational behavior.
@@ -49,11 +49,11 @@ Reconcile the broader CCL preparation portfolio with canonical project state, re
 These are inventory entries, not completion certification. Find the original artifact before reconstructing or duplicating it. Preserve explicit PAUSE instructions; verification does not resume the underlying build.
 
 ## Next action
-**Synchronize Notion 00 CURRENT with this canonical handoff.**
-Replace the obsolete dictionary-next queue; distinguish overall preparation from the SIE production hold; link verified artifacts and preserve unresolved hiring, authority, evidence and audit questions. Keep historical source material and unrelated content intact.
+**Verify the remaining CCL artifact register, beginning with the brand standards guide and branded Bowtie visuals.**
+Locate original artifacts and inspect contents, provenance and destination before marking complete. Preserve paused builds; verification does not resume them. Notion 00 CURRENT is now synchronized.
 
 ## Blockers
-- None for synchronizing the handoff or verifying accessible artifacts.
+- None for verifying accessible artifacts.
 - Production SIE requires authorized internal evidence for entities, ownership, source boundaries, historical data and thresholds.
 - Complete preservation certification requires full conversation/attachment comparison.
 - Meeting-briefing readiness requires record and automation verification; schema existence alone is insufficient.
@@ -61,11 +61,11 @@ Replace the obsolete dictionary-next queue; distinguish overall preparation from
 ## Open decisions
 - Employment/start status and resulting formal candidate-to-employee validation review.
 - RevOps mandate, reporting line, decision rights and cross-functional ownership.
-- Priority among the paused preparation workstreams after handoff synchronization.
+- Priority among the paused preparation workstreams.
 - Original SIE implementation/MVP/account-hierarchy decisions remain open.
 
 ## Resume command
-**GO — SYNC THE NOTION HANDOFF**
+**GO — VERIFY THE CCL ARTIFACT REGISTER**
 
 ## Prior SIE checkpoint — historical reference
 The material below preserves the October 7–8 checkpoint. Its next-action and resume-command sections are historical; the current queue above supersedes them.
