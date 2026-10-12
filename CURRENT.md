@@ -199,3 +199,13 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 - All cases/amounts/terms are SYNTHETIC. Real CCL motion dispositions remain DEFER; no production SIE changes.
 - Next: minimum internal evidence request by motion. Blockers: none for drafting; actual validation needs authorized evidence and confirmed owners.
 - Resume: **GO — BUILD THE GTM EVIDENCE REQUEST**
+
+## Demand-quality diagnostic checkpoint — 2026-10-12
+- JET explicitly resumed demand-quality design. Created and readback-verified [Demand-Quality Diagnostic v0.1](docs/revenue-architecture/demand-quality-diagnostic-v0.1.md).
+- Includes session setup, motion-specific qualification, reusable case card, disposition/reason dictionary, metric contracts, trapped-value review, workshop/action register and four SYNTHETIC calibration examples.
+- Separates fit, readiness, routing, execution, selling, delivery and missing-data diagnoses. Unknown is not failed qualification; diagnostic samples do not establish population rates.
+- PROPOSED instrument aligned to the product × GTM matrix; no actual CCL performance findings, targets, decision rights or production configuration established.
+- Demand-quality next action: synthetic enrollment/custom-solution calibration, including rerouting, low readiness, missing outcomes and stalled follow-up.
+- Demand-quality blockers: none for synthetic testing; real diagnosis requires authorized operating evidence and confirmed ownership.
+- Resume this workstream: **GO — TEST THE DEMAND-QUALITY DIAGNOSTIC**.
+- Other workstream state above is preserved, including completed GTM worksheet tests and the internal-evidence-request queue. Production SIE remains on HOLD. No correspondence sent.
