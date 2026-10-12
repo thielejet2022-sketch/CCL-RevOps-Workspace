@@ -49,8 +49,8 @@ Validate offering-specific revenue architecture using the proposed product × GT
 These are inventory entries, not completion certification. Find the original artifact before reconstructing or duplicating it. Preserve explicit PAUSE instructions; verification does not resume the underlying build.
 
 ## Next action
-**Build the minimum internal evidence request by GTM motion.**
-Synthetic employer-sponsored enrollment and Passport tests are complete; worksheet revised to v0.2. Request actual buying-event, entitlement, cost/capacity, routing and lifecycle evidence when authorized. Earlier artifact-register verification remains pending.
+**Prioritize the GTM Evidence Request into a proposed first-30-days discovery sequence.**
+The staged request is drafted, not sent. Start with buying-journey cases, then economics and complete cohorts for baselines. Confirm sponsors, custodians and authority before actual use. Earlier artifact-register and demand-quality diagnostic workstreams remain separate; preserve their current state.
 
 ## Blockers
 - None for verifying accessible artifacts.
@@ -65,7 +65,7 @@ Synthetic employer-sponsored enrollment and Passport tests are complete; workshe
 - Original SIE implementation/MVP/account-hierarchy decisions remain open.
 
 ## Resume command
-**GO — BUILD THE GTM EVIDENCE REQUEST**
+**GO — BUILD THE GTM DISCOVERY SEQUENCE**
 
 ## Prior SIE checkpoint — historical reference
 The material below preserves the October 7–8 checkpoint. Its next-action and resume-command sections are historical; the current queue above supersedes them.
@@ -209,3 +209,10 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 - Demand-quality blockers: none for synthetic testing; real diagnosis requires authorized operating evidence and confirmed ownership.
 - Resume this workstream: **GO — TEST THE DEMAND-QUALITY DIAGNOSTIC**.
 - Other workstream state above is preserved, including completed GTM worksheet tests and the internal-evidence-request queue. Production SIE remains on HOLD. No correspondence sent.
+
+## GTM evidence request checkpoint — 2026-10-12
+- Created [GTM Evidence Request v0.1](docs/revenue-architecture/gtm-evidence-request-v0.1.md): Stage 1 case walkthroughs across M1–M4 plus routing/relationship exceptions; Stage 2 finance, acquisition costs, delivery/capacity, retention and outcome evidence.
+- Includes intake register, sample-versus-population distinction, readiness/acceptance rules and confirmed-owner/access dependencies.
+- Request is PROPOSED and not sent. Actual evidence, ownership and CCL motion decisions remain UNKNOWN/DEFER. Candidate mode and production SIE HOLD remain.
+- Next: proposed first-30-days discovery sequence. Blockers: none for planning; authorized internal access and confirmed custodians needed for execution.
+- Resume: **GO — BUILD THE GTM DISCOVERY SEQUENCE**
