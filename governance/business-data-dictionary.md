@@ -128,3 +128,9 @@ Transcript: Pocket recording `desktop_1791464387563_yal8lh`, **USMA Connect: Bil
 | Term | Category | State | Definition | Source | CCL Context | Related Terms | Open Question |
 |---|---|---|---|---|---|---|---|
 | TOFU | Acronym / Lifecycle / Process | HYPOTHESIS | Top of Funnel; earliest commercial funnel stage involving awareness, audience attraction, and initial interest. | JET terminology intake, 2026-10-12; standard marketing usage | Potential CCL activities include thought leadership, events, research, and demand generation; examples are not validated CCL funnel stages. | MOFU; BOFU; Lead; Demand Generation; MQL | Does CCL formally use TOFU, and how is it defined and measured in D365 and marketing reporting? |
+
+## Sales qualification methodology intake — 2026-10-12
+
+| Term | Category | State | Definition | Source | CCL Context | Related Terms | Open Question |
+|---|---|---|---|---|---|---|---|
+| MEDDIC | Acronym / Sales Methodology | HYPOTHESIS | Metrics, Economic Buyer, Decision Criteria, Decision Process, Identify Pain, Champion; external enterprise opportunity qualification framework. | JET dictionary intake, 2026-10-12; established external sales methodology | Candidate reference framework for SIE Pursuit Readiness and discovery, not evidence of CCL adoption. Illustrative CCL use cases: measurable leadership outcomes, buying authority, evaluation requirements, procurement steps, leadership-development pain and internal advocates. | SPICED; Pursuit Readiness; Qualification; Economic Buyer | Does CCL use MEDDIC or a related framework? How should it coexist with SPICED and offering-specific qualification? |
