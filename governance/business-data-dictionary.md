@@ -140,3 +140,9 @@ Transcript: Pocket recording `desktop_1791464387563_yal8lh`, **USMA Connect: Bil
 | Term | Category | State | Definition | Source | CCL Context | Related Terms | Open Question |
 |---|---|---|---|---|---|---|---|
 | RACI | Acronym / Responsibility Assignment / Governance | HYPOTHESIS | Responsible (performs the work), Accountable (owns the outcome or decision), Consulted (provides input), Informed (receives updates). External role-clarity framework. | JET terminology intake, 2026-10-12; standard management framework | Candidate tool for defining decision rights and handoffs across Sales, Marketing, Delivery, Finance, regional teams and RevOps; no CCL RACI assignments have been validated. | DAC; DACI; Decision Rights; Process Ownership | Does CCL currently use RACI? Who owns each cross-functional decision and where are existing responsibilities documented? |
+
+## Commercial and finance metric intake — 2026-10-12
+
+| Term | Category | State | Proposed Definition | Source | CCL Context | Related Terms | Open Question |
+|---|---|---|---|---|---|---|---|
+| Bookings | Revenue Operations / Sales / Finance / Commercial Metric | HYPOTHESIS | Value of new enforceable customer contractual commitments recorded in a defined period, subject to an approved policy for valuation, dates, changes, and exclusions; distinct from invoices, recognized revenue, and cash receipts. | JET terminology intake, 2026-10-12; general commercial accounting concept, not verified CCL policy | Potentially links Custom, Passport and other offering commitments to planned delivery, revenue recognition and collections. Illustrative only; no confirmed CCL booking policy or calculation. | Contract; Billings; Recognized Revenue; Cash Collections; Renewal; Expansion; Contract Modification | Which contracts count, at what value and date? How are multiyear commitments, renewals, Passport, cancellations, amendments, refunds and currencies treated? Who signs off on the metric? |
