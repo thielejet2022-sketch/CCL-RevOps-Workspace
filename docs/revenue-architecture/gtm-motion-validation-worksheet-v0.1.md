@@ -1,4 +1,4 @@
-# CCL GTM Motion Validation Worksheet v0.1
+# CCL GTM Motion Validation Worksheet v0.2
 
 **Date:** 2026-10-12
 **Mode:** Candidate / pre-employment
@@ -89,7 +89,7 @@ Routing diagnosis: choose documented poor fit, low intent, timing, wrong motion,
 | ARR / GRR / NRR | Qualifying contract lines, annualization rule, starting cohort, expansion/contraction/churn, currency and exclusions; Finance validation | UNKNOWN |
 | Customer / mission outcome | Completion versus application/behavior change versus organizational impact; measurement method and timing | UNKNOWN |
 
-Classify each metric: READY TO BASELINE / DEFINITION NEEDED / DATA NEEDED / NOT APPLICABLE.
+Classify each metric: READY TO BASELINE / DEFINITION NEEDED / DATA NEEDED / NOT YET OBSERVABLE / NOT APPLICABLE. NOT YET OBSERVABLE means the eligible outcome window has not elapsed; do not substitute zero.
 No performance target is approved by this worksheet. Discover baselines before benchmarks. Do not pool unlike motion conversion rates or apply SaaS targets to the whole portfolio.
 
 ## 6. Keep / merge / split decision
@@ -130,8 +130,18 @@ Completion means evidence, limitations, accountable follow-ups and a reviewable 
 | M3 | DEFER | PROPOSED in baseline matrix | Not assessed | UNKNOWN | Design, scope and capacity gates |
 | M4 | DEFER | PROPOSED in baseline matrix | Not assessed | UNKNOWN | Recurring terms, deployment and entitlement economics |
 
+## Synthetic-test refinements — v0.2
+See [test findings](gtm-motion-synthetic-tests-2026-10-12.md); synthetic tests refine the instrument, not CCL evidence.
+- B1/B3: distinguish employer reimbursement or payment from sponsor-led organizational selection/procurement. Record why the buying process warrants a distinct motion.
+- B5/case trace: record original motion, final motion, transfer date, accepting owner and eventual outcome. Wrong route and poor fit remain separate.
+- B7/B11/economics: reconcile incremental versus allocated cost views; identify whether demand fills existing capacity or creates a new cohort/resource obligation.
+- B6: classify each service component as included entitlement, requested exception, approved scope, separately sold, or delivered. Pending requests are not bookings or expansion.
+- B9: record deployment readiness, intended learner audience, administrator enablement, learner usage and impact as separate milestones.
+- Economic/cash recovery: label OBSERVED or MODELED, specify recognition and cost timing assumptions; missing outflows prevent cash-recovery conclusions.
+- Metric readiness: use NOT YET OBSERVABLE for immature outcome or retention windows, not zero.
+
 ## Next action
-Pressure-test the worksheet with clearly SYNTHETIC employer-sponsored enrollment and Passport cases, especially M2 boundaries and service entitlements, before using it for internal discovery.
+Build the minimum internal evidence request by motion, using these refined prompts. Confirm owners and permitted access before real discovery.
 
 ## Provenance
 Derived from the retrieved product-motion matrix and repository governance. No new stakeholder interview or internal transactional evidence was collected. Candidate/pre-employment mode and production SIE HOLD remain. Other paused workstreams are unaffected.
