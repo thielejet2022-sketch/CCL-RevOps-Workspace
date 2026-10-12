@@ -1,5 +1,76 @@
 # CURRENT — CCL RevOps Workspace
 
+**Updated:** 2026-10-12
+**Mode:** Candidate / pre-employment. Employment commencement is not confirmed.
+**Overall status:** Evidence capture and operating preparation available to continue; individual paused workstreams remain paused.
+**SIE production status:** Evidence-gated HOLD. Existing taxonomy v0.2 and schema v0.2 remain unchanged.
+
+## Current workstream and objective
+Reconcile the broader CCL preparation portfolio with canonical project state, retaining source links, evidence boundaries and a single resume pointer. SIE is one workstream within Marketing, Sales, Delivery, Finance and the client lifecycle.
+
+## Completed in this reconciliation
+- Retrieved README.md, GOVERNANCE.md and the prior CURRENT.md; applied canonical naming and evidence-state rules.
+- Reviewed the Notion WBD overview and proposed CCL Bowtie. The overview links six model pages; this pass did not inspect all six individually.
+- Reviewed the Bowtie Discovery Worksheet, including its v0.2 synthetic-test findings, and SPICED Customer-Context Brief master, including links to two completed synthetic examples. Child examples were not individually re-audited.
+- Reviewed the D365 diagnostic, including Finance/delivery/decision-rights refinements and brand-research integration. D365 is JET-confirmed current CRM; deployed modules, integrations and source boundaries remain UNKNOWN. Potential migration is separate from current CRM.
+- Retrieved the repository customer-advocacy validation document dated October 11. It preserves public-evidence provenance, unknown account matching and consent, and no taxonomy change; its external sources were not independently revalidated in this reconciliation.
+- Verified live Airtable schema: CCL People, linked Relationship Notes, and Meeting Briefing Log exist. People includes First Name, Last Name and JET_Met. This is a source-reported directory, not an authoritative CCL HR roster.
+- Reviewed the Knowledge Consolidation Manifest and Notion 00 CURRENT. Notion's October 7 handoff is stale: dictionary remains listed as next, and hiring/interview language predates newer work. It has not been updated in this pass.
+
+## Verified artifact pointers
+- [WBD overview and six-model learning framework](https://app.notion.com/p/3f7550a77019818bb9f4f71a8f5325f1)
+- [Proposed CCL Bowtie](https://app.notion.com/p/3f7550a7701981e59cccc7d4fa9470e8)
+- [Bowtie worksheet and synthetic-test findings](https://app.notion.com/p/3f7550a7701981eca244cf59b7fcd452)
+- [SPICED brief and synthetic-example links](https://app.notion.com/p/3f7550a770198164923ada874816465c)
+- [D365 revenue-systems diagnostic](https://app.notion.com/p/3f5550a770198147b489ee68f9709571)
+- [Customer advocacy validation](docs/signal-intelligence-engine/customer-advocacy-validation-2026-10-11.md)
+- [CCL People Directory](https://airtable.com/appEos8J9kEldWjiy)
+- [Knowledge Consolidation Manifest](https://app.notion.com/p/3f4550a77019819fb30fe57d9598efb1)
+- [Notion 00 CURRENT reference view requiring synchronization](https://app.notion.com/p/3f2550a7701981a68226c9f9ea2b16aa)
+
+## Evidence and interpretation boundaries
+- Artifact existence and reviewed content are verified; they do not prove adoption or actual CCL operational behavior.
+- Bowtie, SPICED, metrics, discovery and ownership designs are PROPOSED. Worked examples remain SYNTHETIC.
+- Interview-derived conditions remain REPORTED; interpretation remains HYPOTHESIS.
+- The D365 diagnostic separates bookings, scheduled delivery, recognized revenue, invoice and cash. Their timing is offering/contract dependent, not a universal linear sequence.
+- Airtable schemas describe persistent relationship evidence and private briefing logs. Record contents, capture completeness, calendar matching, automation enablement and end-to-end delivery were not tested here. Do not copy personal details into GitHub or shared calendar invitations.
+- The full-project preservation audit is incomplete. No chats are cleared for deletion.
+- No employment transition, offer acceptance, reporting line or new organizational authority is established by this reconciliation.
+- JET's instruction not to send the Finance visual remains in force. No correspondence is authorized by this handoff.
+
+## Work reported in Project history, still needing artifact/content verification
+- Brand standards guide and branded Bowtie/custom-solutions visuals.
+- Competitor matrix, battlecards and proof library; EOS revenue operating cadence.
+- Renee DAC tests and pre-offer role-clarity call card.
+- Fortune 500 named-account workbook and Google Sheets destination.
+- Finance lifecycle visual and its provenance.
+- Demand-generation / offering-specific metrics discussion.
+- Relationship-note capture from stakeholder calls and Sarah briefing preview; live schema is verified, detailed records and automation are not.
+These are inventory entries, not completion certification. Find the original artifact before reconstructing or duplicating it. Preserve explicit PAUSE instructions; verification does not resume the underlying build.
+
+## Next action
+**Synchronize Notion 00 CURRENT with this canonical handoff.**
+Replace the obsolete dictionary-next queue; distinguish overall preparation from the SIE production hold; link verified artifacts and preserve unresolved hiring, authority, evidence and audit questions. Keep historical source material and unrelated content intact.
+
+## Blockers
+- None for synchronizing the handoff or verifying accessible artifacts.
+- Production SIE requires authorized internal evidence for entities, ownership, source boundaries, historical data and thresholds.
+- Complete preservation certification requires full conversation/attachment comparison.
+- Meeting-briefing readiness requires record and automation verification; schema existence alone is insufficient.
+
+## Open decisions
+- Employment/start status and resulting formal candidate-to-employee validation review.
+- RevOps mandate, reporting line, decision rights and cross-functional ownership.
+- Priority among the paused preparation workstreams after handoff synchronization.
+- Original SIE implementation/MVP/account-hierarchy decisions remain open.
+
+## Resume command
+**GO — SYNC THE NOTION HANDOFF**
+
+## Prior SIE checkpoint — historical reference
+The material below preserves the October 7–8 checkpoint. Its next-action and resume-command sections are historical; the current queue above supersedes them.
+
+
 **Updated:** 2026-10-07
 **Mode:** Candidate / pre-employment
 **Status:** HOLD — candidate-stage SIE architecture complete; new delivery evidence captured without extending production architecture
