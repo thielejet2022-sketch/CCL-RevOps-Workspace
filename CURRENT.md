@@ -171,3 +171,15 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 - All questions are candidate-stage discovery prompts; existing SIE taxonomy v0.2 remains unchanged and evidence-gated HOLD continues.
 - Next: validate resource-allocation decision ownership and Passport design entitlements with authorized stakeholders when appropriate.
 - Resume: GO CCL EVIDENCE UPDATE
+
+## Product × GTM motion matrix checkpoint — 2026-10-12
+- JET explicitly resumed this design workstream; other paused builds remain paused.
+- Created [Product × GTM Motion Matrix v0.1](docs/revenue-architecture/product-gtm-motion-matrix-v0.1.md): eight purchase contexts mapped to four candidate motions, with buying units, delivery constraints, economics, lead quality, lifecycle outcomes and validation plan.
+- Public offering families are sourced; motion assignments and metric selections remain PROPOSED / HYPOTHESIS. Internal margins, ownership, contract treatment and motion count remain UNKNOWN.
+- Reviewed repository governance and Bill Adams reconciliation; original interview transcript was not re-audited.
+- No production SIE taxonomy or configuration change. Candidate/pre-employment boundary and SIE HOLD remain.
+- Current workstream: offering-specific revenue architecture and economics.
+- Next action: build the four-motion validation worksheet; earlier artifact-register verification queue remains pending.
+- Blockers: none for proposed worksheet; internal evidence required to validate motions and targets.
+- Open decision: whether organizational program buying is its own motion or a branch of enrollment/consultative selling.
+- Resume command: **GO — BUILD THE GTM MOTION VALIDATION WORKSHEET**
