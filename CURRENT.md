@@ -216,3 +216,11 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 - Request is PROPOSED and not sent. Actual evidence, ownership and CCL motion decisions remain UNKNOWN/DEFER. Candidate mode and production SIE HOLD remain.
 - Next: proposed first-30-days discovery sequence. Blockers: none for planning; authorized internal access and confirmed custodians needed for execution.
 - Resume: **GO — BUILD THE GTM DISCOVERY SEQUENCE**
+
+## Demand-quality calibration checkpoint — 2026-10-12
+- Completed [synthetic tests](docs/revenue-architecture/demand-quality-synthetic-tests-2026-10-12.md): two worked cases, eight adversarial variants and separate M1/M3 metric arithmetic.
+- Revised [diagnostic to v0.2](docs/revenue-architecture/demand-quality-diagnostic-v0.1.md) at stable path. Clarified event/status history, duplicate denominators, unknown compliance, no-decision win rate and unresolved/causal diagnosis.
+- Tests support design usability, not actual CCL lead quality or trapped-value conclusions.
+- Demand-quality next: proposed joint Marketing–Sales calibration agenda, coordinated with existing GTM evidence request. Internal validation requires authorized evidence and confirmed owners.
+- Resume this workstream: **GO — BUILD THE DEMAND-QUALITY CALIBRATION AGENDA**.
+- Other workstream queues and pauses preserved; production SIE HOLD remains. No outreach sent.
