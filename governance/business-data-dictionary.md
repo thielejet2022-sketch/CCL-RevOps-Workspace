@@ -122,3 +122,9 @@ Transcript: Pocket recording `desktop_1791464387563_yal8lh`, **USMA Connect: Bil
 | Renewal | Lifecycle / Process | HYPOTHESIS | Continuation or extension of a qualifying commercial relationship or entitlement. | JET proposed client lifecycle domain, 2026-10-10 | Potentially relevant to Passport licenses. | Passport; Client Lifecycle | Eligible offering types and renewal trigger unknown. |
 | Cross-Sell | Lifecycle / Process | HYPOTHESIS | Sale of an additional distinct offering to an existing client. | JET proposed client lifecycle domain, 2026-10-10 | Potential subset of expansion. | Expansion; Client Lifecycle | CCL's cross-sell definition and reporting classification unknown. |
 | Expansion | Lifecycle / Process | HYPOTHESIS | Commercial growth within an existing client relationship through added scope, offerings, populations or business units. | JET proposed client lifecycle domain, 2026-10-10 | Potential custom-client growth motion. | Cross-Sell; Account | CCL's authoritative expansion and new-business boundary unknown. |
+
+## Funnel terminology intake — 2026-10-12
+
+| Term | Category | State | Definition | Source | CCL Context | Related Terms | Open Question |
+|---|---|---|---|---|---|---|---|
+| TOFU | Acronym / Lifecycle / Process | HYPOTHESIS | Top of Funnel; earliest commercial funnel stage involving awareness, audience attraction, and initial interest. | JET terminology intake, 2026-10-12; standard marketing usage | Potential CCL activities include thought leadership, events, research, and demand generation; examples are not validated CCL funnel stages. | MOFU; BOFU; Lead; Demand Generation; MQL | Does CCL formally use TOFU, and how is it defined and measured in D365 and marketing reporting? |
