@@ -134,3 +134,9 @@ Transcript: Pocket recording `desktop_1791464387563_yal8lh`, **USMA Connect: Bil
 | Term | Category | State | Definition | Source | CCL Context | Related Terms | Open Question |
 |---|---|---|---|---|---|---|---|
 | MEDDIC | Acronym / Sales Methodology | HYPOTHESIS | Metrics, Economic Buyer, Decision Criteria, Decision Process, Identify Pain, Champion; external enterprise opportunity qualification framework. | JET dictionary intake, 2026-10-12; established external sales methodology | Candidate reference framework for SIE Pursuit Readiness and discovery, not evidence of CCL adoption. Illustrative CCL use cases: measurable leadership outcomes, buying authority, evaluation requirements, procurement steps, leadership-development pain and internal advocates. | SPICED; Pursuit Readiness; Qualification; Economic Buyer | Does CCL use MEDDIC or a related framework? How should it coexist with SPICED and offering-specific qualification? |
+
+## Operating governance terminology intake — 2026-10-12
+
+| Term | Category | State | Definition | Source | CCL Context | Related Terms | Open Question |
+|---|---|---|---|---|---|---|---|
+| RACI | Acronym / Responsibility Assignment / Governance | HYPOTHESIS | Responsible (performs the work), Accountable (owns the outcome or decision), Consulted (provides input), Informed (receives updates). External role-clarity framework. | JET terminology intake, 2026-10-12; standard management framework | Candidate tool for defining decision rights and handoffs across Sales, Marketing, Delivery, Finance, regional teams and RevOps; no CCL RACI assignments have been validated. | DAC; DACI; Decision Rights; Process Ownership | Does CCL currently use RACI? Who owns each cross-functional decision and where are existing responsibilities documented? |
