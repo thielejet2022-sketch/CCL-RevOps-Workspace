@@ -1,12 +1,12 @@
 # CURRENT — CCL RevOps Workspace
 
-**Updated:** 2026-10-12
+**Updated:** 2026-10-13
 **Mode:** Candidate / pre-employment. Employment commencement is not confirmed.
 **Overall status:** Evidence capture and operating preparation available to continue; individual paused workstreams remain paused.
 **SIE production status:** Evidence-gated HOLD. Existing taxonomy v0.2 and schema v0.2 remain unchanged.
 
 ## Current workstream and objective
-Validate offering-specific revenue architecture using the proposed product × GTM motion matrix and its reusable discovery worksheet. Four motions remain candidates; no CCL motion count or production workflow is established. Earlier artifact-register verification remains pending; other paused builds remain paused.
+Prepare evidence-led GTM discovery using the proposed first-30-days sequence, product × GTM motion matrix and reusable discovery worksheet. Four motions remain candidates; no CCL motion count or production workflow is established. Earlier artifact-register verification remains pending; other paused builds remain paused.
 
 ## Completed in this reconciliation
 - Retrieved README.md, GOVERNANCE.md and the prior CURRENT.md; applied canonical naming and evidence-state rules.
@@ -49,8 +49,8 @@ Validate offering-specific revenue architecture using the proposed product × GT
 These are inventory entries, not completion certification. Find the original artifact before reconstructing or duplicating it. Preserve explicit PAUSE instructions; verification does not resume the underlying build.
 
 ## Next action
-**Prioritize the GTM Evidence Request into a proposed first-30-days discovery sequence.**
-The staged request is drafted, not sent. Start with buying-journey cases, then economics and complete cohorts for baselines. Confirm sponsors, custodians and authority before actual use. Earlier artifact-register and demand-quality diagnostic workstreams remain separate; preserve their current state.
+**Build the proposed joint Marketing–Sales demand-quality calibration agenda.**
+Use the existing diagnostic v0.2 and E5–E6 evidence requests to create the reusable Days 11–15 session in the GTM discovery sequence. No meeting or correspondence is authorized. Earlier artifact-register work and other paused builds remain separate.
 
 ## Blockers
 - None for verifying accessible artifacts.
@@ -65,7 +65,7 @@ The staged request is drafted, not sent. Start with buying-journey cases, then e
 - Original SIE implementation/MVP/account-hierarchy decisions remain open.
 
 ## Resume command
-**GO — BUILD THE GTM DISCOVERY SEQUENCE**
+**GO — BUILD THE DEMAND-QUALITY CALIBRATION AGENDA**
 
 ## Prior SIE checkpoint — historical reference
 The material below preserves the October 7–8 checkpoint. Its next-action and resume-command sections are historical; the current queue above supersedes them.
@@ -224,3 +224,11 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 - Demand-quality next: proposed joint Marketing–Sales calibration agenda, coordinated with existing GTM evidence request. Internal validation requires authorized evidence and confirmed owners.
 - Resume this workstream: **GO — BUILD THE DEMAND-QUALITY CALIBRATION AGENDA**.
 - Other workstream queues and pauses preserved; production SIE HOLD remains. No outreach sent.
+
+## GTM discovery sequence checkpoint — 2026-10-13
+- Created [GTM Discovery Sequence v0.1](docs/revenue-architecture/gtm-discovery-sequence-v0.1.md): proposed working-day bands 1–3 scope/access, 4–10 buying journeys, 11–15 demand/relationship calibration, 16–23 economic and cohort readiness, 24–30 decisions and one bounded pilot proposal.
+- Read repository governance, matrix and staged evidence request. Role perspectives remain unassigned; dates are relative planning bands; four motions remain candidates.
+- Day-30 outcome is a decision packet with explicit gaps, not full audit completion or production changes. Baselines require complete defined populations; selected cases remain qualitative.
+- Candidate mode, authorized-access dependencies, SIE HOLD and unrelated pauses preserved. No outreach or operational changes.
+- Next: proposed joint Marketing–Sales demand-quality calibration agenda. No blocker for drafting; execution requires confirmed sponsor, custodians, authority and approved internal evidence.
+- Resume: **GO — BUILD THE DEMAND-QUALITY CALIBRATION AGENDA**.
