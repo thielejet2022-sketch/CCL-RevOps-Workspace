@@ -43,3 +43,6 @@ Material changes to definitions, schemas, operating rules, entity identity, or a
 Prefer: **Evidence → Signal → Interpretation → Decision → Action → Outcome → Learning**
 
 The system should reduce ambiguity and decision latency, not merely create more dashboards.
+
+## JET's call preparation
+For **BUILD CALL PREP — [person or meeting] — [date/time]**, follow [Call Prep Standard](docs/call-prep-standard.md) and [blank template](templates/call-prep-sheet.md). This is JET's private preparation workflow. Use current source records and preserve evidence/date/attribution boundaries. TEST ONLY creates no live appointment or delivery-log entry. Default output is a concise sheet in ChatGPT; PDF only on request. Private personal details remain in Airtable. Repository instructions do not automatically modify ChatGPT Project settings.
