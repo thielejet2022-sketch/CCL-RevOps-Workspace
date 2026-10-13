@@ -24,3 +24,7 @@ The first governed workstream is the **Signal Intelligence Engine (SIE)**, adapt
 
 See [CURRENT.md](CURRENT.md) for canonical state and next action.
 See [GOVERNANCE.md](GOVERNANCE.md) for working rules.
+
+## Important-call preparation
+Command: **BUILD CALL PREP — [person or meeting] — [date/time]. Purpose: [topic].**
+See [Call Prep Standard](docs/call-prep-standard.md) and [reusable sheet](templates/call-prep-sheet.md). Add TEST ONLY for a hypothetical call, or PDF for a printable copy.
