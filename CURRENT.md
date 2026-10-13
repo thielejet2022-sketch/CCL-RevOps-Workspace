@@ -49,8 +49,8 @@ Prepare evidence-led GTM discovery using the proposed first-30-days sequence, pr
 These are inventory entries, not completion certification. Find the original artifact before reconstructing or duplicating it. Preserve explicit PAUSE instructions; verification does not resume the underlying build.
 
 ## Next action
-**Build the proposed joint Marketing–Sales demand-quality calibration agenda.**
-Use the existing diagnostic v0.2 and E5–E6 evidence requests to create the reusable Days 11–15 session in the GTM discovery sequence. No meeting or correspondence is authorized. Earlier artifact-register work and other paused builds remain separate.
+**Dry-run the proposed demand-quality calibration agenda using existing synthetic cases.**
+Test enrollment misrouting, stalled custom follow-up and entitled-service boundaries; verify discussion timeboxes, unresolved disagreement handling and action capture. No actual workshop or outreach is authorized. Earlier artifact-register work and other paused builds remain separate.
 
 ## Blockers
 - None for verifying accessible artifacts.
@@ -65,7 +65,7 @@ Use the existing diagnostic v0.2 and E5–E6 evidence requests to create the reu
 - Original SIE implementation/MVP/account-hierarchy decisions remain open.
 
 ## Resume command
-**GO — BUILD THE DEMAND-QUALITY CALIBRATION AGENDA**
+**GO — TEST THE DEMAND-QUALITY CALIBRATION AGENDA**
 
 ## Prior SIE checkpoint — historical reference
 The material below preserves the October 7–8 checkpoint. Its next-action and resume-command sections are historical; the current queue above supersedes them.
@@ -232,3 +232,11 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 - Candidate mode, authorized-access dependencies, SIE HOLD and unrelated pauses preserved. No outreach or operational changes.
 - Next: proposed joint Marketing–Sales demand-quality calibration agenda. No blocker for drafting; execution requires confirmed sponsor, custodians, authority and approved internal evidence.
 - Resume: **GO — BUILD THE DEMAND-QUALITY CALIBRATION AGENDA**.
+
+## Joint demand-quality calibration agenda checkpoint — 2026-10-13
+- Created [Calibration Agenda v0.1](docs/revenue-architecture/demand-quality-calibration-agenda-v0.1.md): 75-minute proposed Marketing–Sales session, independent case classification, three timeboxed case reviews, disagreement/evidence log and one pilot proposal or evidence-first deferral.
+- Aligned with diagnostic v0.2, synthetic findings, existing E5–E6 requests and Days 11–15 of GTM discovery. Original interview transcripts not reread; inherited stakeholder statements remain REPORTED.
+- Selected cases cannot establish population performance or causal loss. Actual participants, authority, owners, dates and internal evidence remain unconfirmed.
+- Candidate mode, SIE HOLD and unrelated pauses preserved. No meetings scheduled, correspondence sent or configuration changed.
+- Next: synthetic dry-run of agenda. Blockers: none for rehearsal; actual workshop requires authorized evidence and confirmed participants/authority.
+- Resume: **GO — TEST THE DEMAND-QUALITY CALIBRATION AGENDA**.
