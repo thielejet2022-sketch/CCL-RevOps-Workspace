@@ -240,3 +240,11 @@ If the CCL opportunity advances, use the Discovery Framework, Decision Contract,
 - Candidate mode, SIE HOLD and unrelated pauses preserved. No meetings scheduled, correspondence sent or configuration changed.
 - Next: synthetic dry-run of agenda. Blockers: none for rehearsal; actual workshop requires authorized evidence and confirmed participants/authority.
 - Resume: **GO — TEST THE DEMAND-QUALITY CALIBRATION AGENDA**.
+
+## Call prep standard checkpoint — 2026-10-13
+- JET authorized formalizing the manual call-prep approach. Created [Call Prep Standard v1.0](docs/call-prep-standard.md) and [blank template](templates/call-prep-sheet.md); linked command into repository governance and README.
+- Default: concise one-page-equivalent ChatGPT sheet; optional requested PDF. Includes outcome, dated personal reminders, business evidence, three priority questions, relevant proof, proposed close and material uncertainty.
+- Sarah's People record and all five linked notes were read for the preceding manual test; speaker attribution caveat and historical tournament preserved. No private details copied into this standard/template.
+- Project-settings instruction text is included in the standard, ready to paste; ChatGPT Project settings were not changed. Automatic briefing task configuration and live delivery were not revalidated or modified.
+- This bounded workstream is complete. Next action: use BUILD CALL PREP with person/meeting, date/time and optional purpose when an important call arises. No blocker for the standard; each actual sheet depends on accessible relevant evidence.
+- Main GTM next action/resume command above and unrelated paused workstreams remain unchanged. Candidate-mode boundary and SIE HOLD remain.
