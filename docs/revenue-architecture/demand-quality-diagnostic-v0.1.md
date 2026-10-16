@@ -1,6 +1,6 @@
 # CCL Demand-Quality Diagnostic v0.2
 Date: 2026-10-12
-Mode: Candidate / pre-employment
+Mode: Offer Accepted / Pre-Start
 Design status: PROPOSED discovery instrument. No CCL performance findings, targets, ownership assignments or production configuration established.
 Evidence: interview conditions REPORTED; explanations HYPOTHESIS; unfilled responses UNKNOWN; worked examples SYNTHETIC.
 

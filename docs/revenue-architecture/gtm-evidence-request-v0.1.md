@@ -1,6 +1,6 @@
 # CCL GTM Evidence Request v0.1
 Date: 2026-10-12
-Mode: Candidate / pre-employment.
+Mode: Offer Accepted / Pre-Start.
 Status: PROPOSED discovery request for review and later authorized internal use. Not sent. No access, owners, deadlines or export capability are assumed.
 Purpose: validate the four candidate motions and their lead-quality, delivery and economic measures without importing SaaS benchmarks.
 References: [product-motion matrix](product-gtm-motion-matrix-v0.1.md), [worksheet v0.2](gtm-motion-validation-worksheet-v0.1.md), [synthetic findings](gtm-motion-synthetic-tests-2026-10-12.md).
@@ -69,7 +69,7 @@ Minimum useful completion: each available candidate journey has a traceable case
 
 ## Handling and authorized use
 Default to guided walkthroughs or sanitized extracts in approved internal storage. Retain only necessary identifiers; participant personal details are unnecessary for motion validation. Confirm repository suitability before placing nonpublic records here. This repository holds the proposed request and sanitized conclusions, not requested internal records.
-Candidate/pre-employment boundary remains. This document does not authorize contacting stakeholders, requesting access or sending correspondence. JET chooses when and how to use it.
+Offer Accepted / Pre-Start boundary remains. This document does not authorize contacting stakeholders, requesting access or sending correspondence. JET chooses when and how to use it.
 
 ## Decisions remaining
 Confirm discovery sponsor and decision authority; actual custodians; permissible sources/location; case/date scope; definitions; and whether M2 is distinct. All remain UNKNOWN until resolved.

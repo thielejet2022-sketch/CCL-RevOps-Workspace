@@ -1,6 +1,6 @@
 # CCL Product × GTM Motion Matrix v0.1
 Date: 2026-10-12
-Mode: Candidate / pre-employment
+Mode: Offer Accepted / Pre-Start
 Design status: PROPOSED. Motion assignments and metric selections are HYPOTHESIS pending validation. Public offering availability is KNOWN from the linked CCL pages; internal packaging, ownership, margins and volumes are UNKNOWN.
 
 ## Recommendation

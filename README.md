@@ -1,14 +1,18 @@
 # CCL Revenue Operations Workspace
 
-Durable workspace for designing, governing, and eventually operating the CCL Revenue Operations system.
+Durable workspace for preparing, designing, governing, and operating the CCL Revenue Operations system.
 
 ## Current operating mode
-**Candidate / pre-employment mode.**
+**Offer Accepted / Pre-Start Mode.**
+
+JET accepted the Director, Revenue Operations role on October 15, 2026. Scheduled start: **October 26, 2026** (JET-confirmed). Employment commencement and internal access are not yet confirmed.
+
+See the [transition review and audit](docs/offer-accepted-pre-start-transition-2026-10-16.md).
 
 This repository contains working hypotheses, frameworks, and proposed operating designs. Nothing here should be treated as an authoritative statement of CCL policy, process, data, or system behavior unless explicitly validated and marked as such.
 
 ## Purpose
-The workspace is intended to survive the transition from candidate research and interview preparation → Day 0 / transition planning → employee operating environment, if JET joins CCL.
+The workspace now supports offer-accepted onboarding preparation → Day 1 discovery → a validated employee operating environment. Candidate-era research remains useful input, subject to internal validation.
 
 ## Core principles
 1. Separate evidence from hypothesis.
@@ -20,7 +24,7 @@ The workspace is intended to survive the transition from candidate research and 
 7. Do not encode sensitive or proprietary CCL information here unless repository access and information-handling rules are appropriate.
 
 ## Active workstream
-The first governed workstream is the **Signal Intelligence Engine (SIE)**, adapted to CCL's revenue model and vocabulary.
+The active workstream is **pre-start onboarding and 90-day planning**. The **Signal Intelligence Engine (SIE)** remains a major workstream on evidence-gated HOLD; it is not the identity of the entire RevOps role.
 
 See [CURRENT.md](CURRENT.md) for canonical state and next action.
 See [GOVERNANCE.md](GOVERNANCE.md) for working rules.

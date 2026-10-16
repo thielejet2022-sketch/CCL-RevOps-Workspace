@@ -1,6 +1,6 @@
 # Customer Advocacy & Referral Signal v0.1
 Date: 2026-10-11
-Status: HYPOTHESIS, candidate-stage discovery only. Does not change SIE v0.2 taxonomy (7 domains, 21 signals).
+Status: HYPOTHESIS, pre-start discovery only. Does not change SIE v0.2 taxonomy (7 domains, 21 signals).
 
 ## Purpose
 Capture publicly expressed customer satisfaction as evidence for potential references, referrals and expansion. Public endorsement is NOT permission to request an introduction or claim a customer is referral-ready.

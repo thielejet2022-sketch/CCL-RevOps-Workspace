@@ -13,7 +13,7 @@ A supplied time is user-reported until matched to a live event. TEST ONLY never 
 Show a concise one-page-equivalent Markdown sheet in ChatGPT, approximately 400–600 words maximum. Aim for a two-minute read. Use the [template](../templates/call-prep-sheet.md). No file export is required unless requested. PDF means a rendered, visually verified one-page printable sheet; keep readable type and shorten content instead of shrinking it. Optional supporting links belong after the main sheet.
 
 ## Preparation procedure
-1. Read current repository governance and relevant project context. Do not resume unrelated paused work or assume employment, authority or an offer.
+1. Read current repository governance and relevant project context. Use JET-confirmed offer acceptance and scheduled start from CURRENT.md. Do not resume unrelated paused work or infer employment commencement, internal access or delegated authority.
 2. Identify meeting purpose and intended outcome. If absent, derive a reasonable proposed outcome from accessible meeting/context evidence and label the assumption. Ask only if missing context materially prevents useful prep.
 3. For a real scheduled call, read primary Calendar within the stated date/window, page all results, and read full event details as needed. Exclude canceled, declined, all-day, focus/planning and draft onboarding items. Never invent a meeting link, attendees or time. If no matching event exists, use JET-reported logistics with that label. Ambiguous events remain unresolved.
 4. Match participants by exact normalized email to Airtable People Email, then by unambiguous full name in event details or JET's request. Never first-name-only matching or similar-person substitution. Use canonical names, including Demetreus Lancsweert.

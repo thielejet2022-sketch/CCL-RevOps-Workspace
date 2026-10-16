@@ -2,7 +2,7 @@
 
 > **Governance:** GitHub is canonical. Notion is the human-readable operational view.
 >
-> **Mode:** Candidate / Pre-Employment. Definitions must not imply an unvalidated CCL operating model.
+> **Mode:** Offer Accepted / Pre-Start. Definitions must not imply an unvalidated CCL operating model.
 
 ## Evidence states
 
@@ -30,7 +30,7 @@ Acronym · Role · Business Concept · Lifecycle / Process · Data Entity · Sys
 | Custom Solution | Offering | REPORTED | Client-specific leadership solution that may require design, scheduling, resources, and delivery before revenue recognition. | David Moore and Demetreus Lancsweert interviews | Creates a potentially long contract-to-revenue timing chain. | Revenue Recognition; Faculty | Exact product taxonomy and delivery states remain unvalidated. |
 | Account | Data Entity | UNKNOWN | Commercial/client organization entity. Exact CCL definition, hierarchy, parent-child rules, and system boundaries are not established. | Internal validation pending | Foundational entity for account intelligence and RevOps architecture. | Opportunity; SIE | What is CCL's authoritative account model? |
 | Opportunity | Data Entity | REPORTED | Commercial pursuit/deal entity. Exact CCL definition, stages, and system behavior remain unvalidated. | Demetreus Lancsweert interview | Core pipeline entity. | Account; Closed Won | What are CCL's authoritative opportunity stages and qualification rules? |
-| SIE | Acronym / Signal / Intelligence | HYPOTHESIS | Signal Intelligence Engine, candidate-stage RevOps workstream converting signals into account intelligence, prioritization, recommended action, human decision, outcomes, and learning. | CCL RevOps Workspace design | Candidate-stage architecture, not a current CCL production capability. | Account Intelligence; Signal | Requires validation before operating adoption. |
+| SIE | Acronym / Signal / Intelligence | HYPOTHESIS | Signal Intelligence Engine, pre-start RevOps workstream converting signals into account intelligence, prioritization, recommended action, human decision, outcomes, and learning. | CCL RevOps Workspace design | Pre-start architecture, not a current CCL production capability. | Account Intelligence; Signal | Requires validation before operating adoption. |
 
 ## Learning & Development intake
 
@@ -97,7 +97,7 @@ Transcript: Pocket recording `desktop_1791464387563_yal8lh`, **USMA Connect: Bil
 
 ## Account, Opportunity, Contract & Delivery, Client Lifecycle — proposed taxonomy (2026-10-10)
 
-**Source:** JET proposed conceptual domains, 2026-10-10. These are candidate-stage business definitions, not validated Dynamics 365 schema, operating rules or Finance policy. Account and Opportunity already exist above and are not duplicated. The four domains are organizing concepts, not a mandatory linear process.
+**Source:** JET proposed conceptual domains, 2026-10-10. These are pre-start business definitions, not validated Dynamics 365 schema, operating rules or Finance policy. Account and Opportunity already exist above and are not duplicated. The four domains are organizing concepts, not a mandatory linear process.
 
 | Term | Category | State | Definition | Source | CCL Context | Related Terms | Open Question |
 |---|---|---|---|---|---|---|---|

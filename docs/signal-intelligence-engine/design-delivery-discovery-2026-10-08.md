@@ -1,7 +1,7 @@
 # CCL Design and Delivery Discovery Checklist
 
 Date: 2026-10-08
-Status: PROPOSED, candidate/pre-employment
+Status: PROPOSED, Offer Accepted / Pre-Start
 Basis: Bill Adams interview, October 8; SIE taxonomy v0.2 reconciliation.
 
 ## Passport scope

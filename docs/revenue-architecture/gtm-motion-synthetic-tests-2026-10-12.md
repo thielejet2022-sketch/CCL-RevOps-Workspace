@@ -1,6 +1,6 @@
 # GTM Motion Worksheet — Synthetic Test Findings
 Date: 2026-10-12
-Mode: Candidate / pre-employment.
+Mode: Offer Accepted / Pre-Start.
 All organizations, dates, roles, terms, amounts, events and outcomes below are SYNTHETIC. They are invented test fixtures, not CCL evidence, pricing, contracts, benchmarks or actual results.
 Instrument: [Validation worksheet](gtm-motion-validation-worksheet-v0.1.md).
 Objective: test discrimination, economic reasoning, routing and evidence boundaries. Real CCL motion decisions remain DEFER.
