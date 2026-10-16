@@ -2,7 +2,7 @@
 
 **Purpose:** Capture evidence-backed delivery roles and handoffs relevant to Revenue Operations, forecasting, capacity, and the client lifecycle.
 
-**Status:** Candidate / pre-employment research. This is not a complete CCL organization chart.
+**Status:** Offer Accepted / Pre-Start research. This is not a complete CCL organization chart.
 
 ## Evidence classification
 

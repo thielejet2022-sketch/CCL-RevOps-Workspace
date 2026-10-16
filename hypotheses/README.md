@@ -1,6 +1,6 @@
 # Hypotheses
 
-Candidate-stage assumptions and testable beliefs live here.
+Pre-start assumptions and testable beliefs live here.
 
 Each hypothesis should include: statement, evidence/source, evidence state, why it matters, validation method, result, and disposition (confirmed, revised, rejected, unresolved).
 

@@ -1,9 +1,9 @@
 # SIE Decision Contract v0.1
 
 **Status:** PROPOSED
-**Stage:** Candidate / pre-employment
+**Stage:** Offer Accepted / Pre-Start
 **Updated:** 2026-10-07
-**Scope:** CCL SIE candidate-stage governance
+**Scope:** CCL SIE pre-start governance
 **Purpose:** Define the minimum information required for a detected signal to become actionable intelligence presented for human decision.
 
 ## Principle
@@ -71,7 +71,7 @@ Required:
 
 Rule: Low or unknown data confidence must be visible and must qualify downstream precision.
 
-Candidate-stage constraint: Numeric confidence thresholds are not defined.
+Pre-start constraint: Numeric confidence thresholds are not defined.
 
 ### 5. Interpretation confidence
 **Question:** Can we trust what we think the data means?
@@ -83,7 +83,7 @@ Required:
 
 Rule: Data can be accurate while interpretation remains uncertain. Do not collapse these confidence dimensions.
 
-Candidate-stage constraint: Numeric confidence thresholds are not defined.
+Pre-start constraint: Numeric confidence thresholds are not defined.
 
 ### 6. Missing information
 **Question:** What do we still need to know?
@@ -197,7 +197,7 @@ A low-risk information-gathering action may still be recommended under uncertain
 
 **Why it matters:** Revenue timing may move even though the commercial commitment remains intact.
 
-**Evidence:** Delivery schedule plus finance forecast linkage. At candidate stage, authoritative systems remain UNKNOWN.
+**Evidence:** Delivery schedule plus finance forecast linkage. During pre-start, authoritative systems remain UNKNOWN.
 
 **Data confidence:** Depends on authoritative schedule source and reliable linkage to the financial forecast.
 
@@ -211,7 +211,7 @@ A low-risk information-gathering action may still be recommended under uncertain
 
 **Outcome:** Capture whether revenue moved as expected and whether the reason recurred.
 
-**Readiness:** INVESTIGATE in candidate stage. It cannot be promoted to a production RECOMMEND rule until internal evidence validates the missing elements.
+**Readiness:** INVESTIGATE during pre-start. It cannot be promoted to a production RECOMMEND rule until internal evidence validates the missing elements.
 
 ## Relationship to Signal Schema v0.2
 Signal Schema v0.2 defines the information SIE can store about a signal.
@@ -237,8 +237,8 @@ It does not assume:
 
 Any future implementation should satisfy the Decision Contract regardless of technology.
 
-## Candidate-stage gate
-This contract completes the candidate-stage conceptual SIE architecture.
+## Pre-start gate
+This contract completes the pre-start conceptual SIE architecture.
 
 Further CCL-specific work should require new evidence unless it is explicitly labeled as a generic/SYNTHETIC prototype.
 
@@ -259,4 +259,4 @@ Resume CCL-specific SIE architecture when one or more of the following becomes a
 - representative CRM/contract/delivery/finance data can be inspected;
 - stakeholders validate previously UNKNOWN domain relationships or operating rules.
 
-Until then, preserve the architecture as candidate-stage work.
+Until then, preserve the architecture as pre-start work.

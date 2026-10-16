@@ -1,7 +1,7 @@
 # Signal Schema v0.1
 
 **Status:** PROPOSED
-**Stage:** Candidate / pre-employment
+**Stage:** Offer Accepted / Pre-Start
 
 | Field | Purpose |
 |---|---|

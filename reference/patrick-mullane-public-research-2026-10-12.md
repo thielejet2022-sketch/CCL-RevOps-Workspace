@@ -1,5 +1,5 @@
 # Patrick Mullane — Public research
-Verified: 2026-10-12. Candidate / pre-employment mode.
+Verified: 2026-10-12. Offer Accepted / Pre-Start mode.
 
 JET explicitly requested this public research be preserved in this repository. This is a narrow public-source research record; private call-derived relationship notes remain in Airtable.
 

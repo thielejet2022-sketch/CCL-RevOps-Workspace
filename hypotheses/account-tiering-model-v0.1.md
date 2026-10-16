@@ -1,5 +1,5 @@
 # CCL Named Account Tiering Model v0.1
-**Status:** PROPOSED / CANDIDATE-STAGE / NOT APPROVED FOR PRODUCTION
+**Status:** PROPOSED / PRE-START / NOT APPROVED FOR PRODUCTION
 **Date:** 2026-10-10
 **Workstream:** Account intelligence / SIE interface
 
@@ -8,7 +8,7 @@ Account tier reflects relatively stable **long-term strategic attractiveness**, 
 
 ## Evidence and constraints
 - REPORTED: Sarah Nabors described trapped value, account segmentation work, and subjective identification of opportunity in September 2026.
-- KNOWN (repository governance): candidate-stage SIE architecture is evidence-gated; no CCL-specific production weights, thresholds, ownership, account cardinalities, or automation without authorized internal evidence.
+- KNOWN (repository governance): pre-start SIE architecture is evidence-gated; no CCL-specific production weights, thresholds, ownership, account cardinalities, or automation without authorized internal evidence.
 - UNKNOWN: Cortado's actual CCL segmentation, existing ICP and scoring, customer-level profitability, corporate hierarchy, sales capacity, and buying-center boundaries.
 - PROPOSED: model below; any example scores or tiers are SYNTHETIC.
 
@@ -64,7 +64,7 @@ Account ID, canonical name, parent ID, lifecycle category, qualification status/
 Coverage of qualified universe; evidence completeness/freshness; proportion with justified tiers; tier stability vs legitimate changes; realized revenue and gross margin by tier; penetration and expansion; time invested per qualified opportunity; signal-to-conversation and signal-to-qualified-opportunity conversion by tier. Avoid treating a tier score as probability of purchase.
 
 ## Key decision boundary
-This artifact is a **candidate-stage research model**, not an approved change to the existing SIE signal taxonomy, D365, account ownership, or Cortado work. Production scoring is BLOCKED pending CCL evidence.
+This artifact is a **pre-start research model**, not an approved change to the existing SIE signal taxonomy, D365, account ownership, or Cortado work. Production scoring is BLOCKED pending CCL evidence.
 
 ## Next
 Create a synthetic account assessment sheet and compare it against the Fortune 500 seed universe; then reconcile with actual Cortado segmentation once available.

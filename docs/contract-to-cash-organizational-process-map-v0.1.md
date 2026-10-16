@@ -1,7 +1,7 @@
 # CCL Contract-to-Cash Organizational / Process Map v0.1
 
 **Date:** 2026-10-07  
-**Mode:** Candidate / pre-employment  
+**Mode:** Offer Accepted / Pre-Start
 **Purpose:** Consolidate current evidence about how CCL moves from demand and opportunity creation through contract, solution preparation, delivery, invoicing, cash, and revenue recognition.
 
 > This is an evidence map, not a validated CCL process design or organization chart. Gaps are intentionally preserved.
@@ -102,7 +102,7 @@ LSP Team Manager evidence introduces a concrete resource-management layer. David
 ### 5. Delivery → Finance
 Completion/progress against the performance obligation determines invoice and/or recognition timing depending on the offering.
 
-## Candidate-stage signal opportunities
+## Pre-start signal opportunities
 
 These are **HYPOTHESES**, not current CCL signals:
 
@@ -147,6 +147,6 @@ The evidence supports a broader operating model:
 
 That does **not** mean RevOps owns every downstream function. It means reliable forecasting and commercial intelligence require RevOps to connect the data, definitions, handoffs, and signals across them.
 
-## Candidate-stage boundary
+## Pre-start boundary
 
 Do not convert this map into production stages, CRM fields, workflow automation, scoring weights, or ownership rules until internal evidence validates the actual CCL process and systems.

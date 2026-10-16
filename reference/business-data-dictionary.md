@@ -2,7 +2,7 @@
 
 **Version:** 0.1  
 **Updated:** 2026-10-07  
-**Mode:** Candidate / pre-employment  
+**Mode:** Offer Accepted / Pre-Start
 **Canonical source:** This GitHub file  
 **Human-readable view:** Notion
 
@@ -76,11 +76,11 @@ Add a category only when an existing category materially fails.
 | **Custom Solution** | Offering | Client-specific leadership solution that may require design, scheduling, faculty/resources, and delivery before revenue recognition. | REPORTED | David Moore and Demetreus Lancsweert interviews | Commercial / Delivery / Finance | Exact CCL offering taxonomy requires validation. |
 | **Account** | Data Entity | Commercial/client organization entity. Exact CCL definition, hierarchy, parent-child rules, and system boundaries are not yet established. | UNKNOWN | Account / Entity Discovery Framework; internal validation pending | Enterprise Data | Do not infer Dynamics cardinality or hierarchy. |
 | **Opportunity** | Data Entity | Commercial pursuit/deal entity used in the sales process. Exact CCL field definition, stage model, and system behavior are not yet validated. | REPORTED | Demetreus Lancsweert interview; CCL uses Dynamics in stakeholder discussions | Sales / CRM | System configuration remains UNKNOWN. |
-| **SIE** | Acronym / Signal / Intelligence | Signal Intelligence Engine: candidate-stage RevOps workstream for converting signals into account intelligence, prioritization, recommended action, human decision, outcomes, and learning. | PROPOSED | CCL RevOps Workspace design | RevOps / Analytics | PROPOSED is design status, not evidence state. This term is not asserted as current CCL terminology. |
+| **SIE** | Acronym / Signal / Intelligence | Signal Intelligence Engine: pre-start RevOps workstream for converting signals into account intelligence, prioritization, recommended action, human decision, outcomes, and learning. | PROPOSED | CCL RevOps Workspace design | RevOps / Analytics | PROPOSED is design status, not evidence state. This term is not asserted as current CCL terminology. |
 
 ## Validation queue
 
-Priority terms whose definitions should be validated if JET joins CCL:
+Priority terms whose definitions should be validated after JET starts at CCL with authorized access:
 
 **Client · Customer · Account · Buying Organization · Opportunity · Lead · Qualified Lead · Pipeline · Booking / Bookings · Contracted Revenue · Scheduled Revenue · Recognized Revenue · Forecast · LSP · Faculty · Associate · Adjunct · Implementation Manager · Account Management · Customer Success · Program · Solution · Offering**
 

@@ -1,6 +1,6 @@
 # CCL Joint Marketing–Sales Demand-Quality Calibration Agenda v0.1
 Date: 2026-10-13
-Mode: Candidate / pre-employment.
+Mode: Offer Accepted / Pre-Start.
 Design status: PROPOSED reusable session for authorized internal use. No meeting is scheduled, owners assigned, or correspondence authorized.
 Placement: Days 11–15 of the [GTM discovery sequence](gtm-discovery-sequence-v0.1.md).
 Sources: [diagnostic v0.2](demand-quality-diagnostic-v0.1.md), [synthetic findings](demand-quality-synthetic-tests-2026-10-12.md), [evidence request E5–E6](gtm-evidence-request-v0.1.md).
@@ -104,4 +104,4 @@ Read back case decisions and unresolved items with each responsible person confi
 Within an agreed follow-through window, store the decision log in approved internal knowledge storage; retain sensitive case evidence in its restricted source. Repository summaries must be sanitized and appropriate for its access rules.
 A useful first session ends here. Do not expand into a new scoring model, dashboards, MQL targets, D365 configuration or production SIE automation.
 Recommended next: dry-run this agenda with the existing synthetic enrollment, stalled-custom and entitled-service scenarios; verify timeboxes, disagreement handling and action capture before internal use.
-No meeting scheduled, invitations or correspondence sent, internal records requested, production configuration changed or employment transition assumed. SIE HOLD and unrelated pauses remain.
+No meeting scheduled, invitations or correspondence sent, internal records requested, production configuration changed or employment commencement assumed. SIE HOLD and unrelated pauses remain.

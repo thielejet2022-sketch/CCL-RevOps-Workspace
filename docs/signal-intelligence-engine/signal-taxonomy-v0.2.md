@@ -1,7 +1,7 @@
 # CCL Signal Taxonomy v0.2
 
 **Status:** PROPOSED
-**Stage:** Candidate / pre-employment
+**Stage:** Offer Accepted / Pre-Start
 **Updated:** 2026-10-07
 **Supersedes:** Signal Taxonomy v0.1 for active design work
 
@@ -17,7 +17,7 @@ Every signal now distinguishes:
 - **Dependencies:** upstream signals that qualify, suppress, or contextualize the signal.
 - **Reason code:** causal classification where known.
 
-At candidate stage, confidence values and reason-code enumerations remain **UNKNOWN / TO VALIDATE** unless directly supported.
+During pre-start, confidence values and reason-code enumerations remain **UNKNOWN / TO VALIDATE** unless directly supported.
 
 ## Domain 1 — Sales / Pipeline
 

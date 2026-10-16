@@ -1,7 +1,7 @@
 # Signal Schema v0.2
 
 **Status:** PROPOSED
-**Stage:** Candidate / pre-employment
+**Stage:** Offer Accepted / Pre-Start
 **Updated:** 2026-10-07
 
 | Field | Purpose |

@@ -1,8 +1,8 @@
 # CCL GTM Discovery Sequence v0.1
 Date: 2026-10-13
-Mode: Candidate / pre-employment.
+Mode: Offer Accepted / Pre-Start.
 Design status: PROPOSED. This is a first-30-days planning instrument, not an assigned schedule or authorized evidence request.
-Dependencies: employment/start status, discovery sponsor, decision authority, internal access, custodians and permitted storage remain UNKNOWN.
+JET confirmed offer acceptance on 2026-10-15 and a scheduled start of 2026-10-26. Dependencies: actual employment commencement, discovery sponsor, decision authority, internal access, custodians and permitted storage remain unconfirmed.
 References: [evidence request](gtm-evidence-request-v0.1.md), [motion matrix](product-gtm-motion-matrix-v0.1.md), [validation worksheet v0.2](gtm-motion-validation-worksheet-v0.1.md), [demand-quality diagnostic v0.2](demand-quality-diagnostic-v0.1.md).
 
 ## Outcome and stopping point
@@ -26,7 +26,7 @@ Planning ASSUMPTION: existing reports and guided walkthroughs can support a smal
 Use a sponsor conversation to agree the business question, available time, priority offerings/regions, authorized sources and review forum. Identify actual custodians; role labels above are suggested perspectives, not assigned owners or assumed reporting lines.
 Record: confirmed sponsor; decision owner; access approver; evidence custodian; permitted storage; reviewers; scope; exclusions; next review.
 Brief each participating function on one common question: what prevents qualified demand and existing relationships from becoming feasible, valuable client outcomes?
-Carry candidate-era statements as REPORTED or HYPOTHESIS. When employee status is confirmed, perform the formal transition review before promoting them to operating truth.
+Carry candidate-era statements as REPORTED or HYPOTHESIS. After employment begins and authorized internal evidence is available, perform the formal transition review before promoting them to operating truth.
 Early Finance conversation establishes definitions and custody only; detailed economic calculation follows case tracing.
 
 ## Days 4–10 — trace buying journeys
@@ -83,5 +83,5 @@ Review decisions with the confirmed authority. Record accept/revise/defer and ra
 ## Handling, evidence and continuity
 Internal records stay in approved internal locations. This repository holds the proposed sequence and appropriately sanitized conclusions only. Store source pointers rather than sensitive participant details; confirm repository suitability before any nonpublic content.
 KNOWN requires demonstrated authoritative scope; stakeholder statements remain REPORTED; interpretations remain HYPOTHESIS; temporary planning premises ASSUMPTION. SYNTHETIC fixtures stay separate.
-No stakeholders contacted, correspondence sent, meetings scheduled, access requested or production settings changed by creating this plan. Candidate mode and SIE evidence-gated HOLD remain.
+No stakeholders contacted, correspondence sent, meetings scheduled, access requested or production settings changed by creating this plan. Pre-start mode and SIE evidence-gated HOLD remain.
 Next: build the proposed joint Marketing–Sales demand-quality calibration agenda as the reusable Days 11–15 session, aligned to E5–E6 and the existing diagnostic.

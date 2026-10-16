@@ -1,7 +1,7 @@
 # CCL Signal Scenario Tests v0.1
 
 **Status:** PROPOSED
-**Stage:** Candidate / pre-employment
+**Stage:** Offer Accepted / Pre-Start
 **Updated:** 2026-10-07
 
 ## Purpose

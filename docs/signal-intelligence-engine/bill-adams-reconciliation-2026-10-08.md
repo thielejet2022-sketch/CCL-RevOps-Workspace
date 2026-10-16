@@ -2,7 +2,7 @@
 
 **Date:** 2026-10-08
 **Status:** PROPOSED evidence assessment, not an approved taxonomy revision
-**Mode:** Candidate / pre-employment
+**Mode:** Offer Accepted / Pre-Start
 **Canonical baseline:** [Signal Taxonomy v0.2](signal-taxonomy-v0.2.md), 7 domains / 21 signals
 **Interview evidence:** Bill Adams, Director, Design & Delivery - Americas, October 8, 2026; [Pocket source](https://app.heypocket.com/app/share/bsFbypdt)
 **Human-readable source:** [Notion evidence page](https://app.notion.com/p/3f3550a770198125aefde4527cfe0f22)

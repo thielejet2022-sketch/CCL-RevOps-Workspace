@@ -1,5 +1,51 @@
 # CURRENT — CCL RevOps Workspace
 
+**Updated:** 2026-10-16
+**Mode:** Offer Accepted / Pre-Start Mode.
+**Acceptance:** 2026-10-15, confirmed by JET in Project context.
+**Scheduled start:** 2026-10-26, confirmed by JET; actual commencement not yet confirmed.
+**Overall status:** Preparing for onboarding and the first 90 days. Internal access and delegated authority remain unconfirmed.
+**SIE production status:** Evidence-gated HOLD. Taxonomy v0.2 and schema v0.2 business content unchanged.
+
+## Current workstream and objective
+Prepare a practical 90-day onboarding plan and expectation alignment for the Director, Revenue Operations role. Use existing GTM discovery, demand-quality, stakeholder and revenue-architecture work as proposed inputs; validate inherited assumptions after starting.
+
+## Completed
+- Audited all 40 tracked Markdown files for employment-mode language, conditional acceptance, stale dependencies and handoff instructions.
+- Updated current-facing governance, README, framework metadata, planning dependencies and call-prep instructions to Offer Accepted / Pre-Start Mode.
+- Recorded acceptance and scheduled start from JET's confirmation; no offer letter or internal HR record independently reviewed in this pass.
+- Completed an initial [transition review and audit](docs/offer-accepted-pre-start-transition-2026-10-16.md), separating status changes from operating validation.
+- Preserved prior dated decisions and the historical checkpoints below. Generic signal/motion candidates retain their meaning.
+
+## Next action
+**Build the proposed pre-start and first-90-days plan**, using Michael Watkins' The First 90 Days as a planning lens. Start with expectation alignment with Demetreus Lancsweert, stakeholder listening, business learning and authorized evidence discovery. Set learning outcomes and decision checkpoints before implementation commitments.
+
+## Blockers
+- None for proposed planning.
+- Internal validation and operational execution require confirmed employment commencement, access, sponsors, decision rights and appropriate information handling.
+- This repository is public; internal CCL information requires an approved destination.
+- Existing artifact-preservation certification and relationship-record/automation verification remain incomplete.
+
+## Open decisions
+- Success expectations, RevOps mandate, reporting line, decision rights and cross-functional ownership need source verification and alignment.
+- Sequence and scope of onboarding discovery with CCL leadership.
+- SIE MVP, entity model, source boundaries, thresholds and implementation remain deferred pending evidence.
+
+## Preserved queue and boundaries
+- Prior demand-quality agenda rehearsal remains deferred behind onboarding planning, not completed or canceled.
+- Other explicitly paused workstreams remain paused.
+- Existing reference pointers remain in the historical handoff below; this audit did not revalidate external artifacts.
+- No messages, meetings, access requests or production changes authorized by this transition. JET's instruction not to send the Finance visual remains in force.
+- ChatGPT Project settings and Notion views are separate surfaces; this repository update does not modify them.
+
+## Resume command
+**GO — BUILD THE CCL PRE-START AND 90-DAY PLAN**
+
+## Historical handoff — superseded as current instructions
+The following is the preserved October 13 handoff and earlier checkpoints. Its hiring status, mode, next actions and resume commands are historical. The current state above and GOVERNANCE.md take precedence.
+
+# CURRENT — CCL RevOps Workspace
+
 **Updated:** 2026-10-13
 **Mode:** Candidate / pre-employment. Employment commencement is not confirmed.
 **Overall status:** Evidence capture and operating preparation available to continue; individual paused workstreams remain paused.

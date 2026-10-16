@@ -7,7 +7,7 @@ It is not simply a dashboard. The intended loop is:
 
 **Source → Signal → Context → Interpretation → Decision → Action → Outcome → Learning**
 
-## Candidate-stage problem statement
+## Pre-start problem statement
 Based on interview-stage work, CCL may have meaningful revenue intelligence distributed across functions rather than consistently converted into shared, timely action.
 
 Potential signal domains include Sales/pipeline, Marketing/demand, existing accounts/expansion, Finance/commercial timing, delivery/capacity, customer/account engagement, and data quality/process compliance. These domains are provisional until validated.

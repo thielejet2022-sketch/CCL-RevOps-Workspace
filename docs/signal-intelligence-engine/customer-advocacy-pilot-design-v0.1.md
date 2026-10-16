@@ -1,6 +1,6 @@
 # Customer Advocacy Pilot Design v0.1
 Date: 2026-10-11
-Mode: CANDIDATE / PRE-EMPLOYMENT
+Mode: Offer Accepted / Pre-Start
 State: HYPOTHESIS / PROTOTYPE ONLY. No live CCL workflow, taxonomy or CRM change authorized.
 Canonical context: CURRENT.md; SIE taxonomy v0.2 stays 7 domains / 21 signals.
 

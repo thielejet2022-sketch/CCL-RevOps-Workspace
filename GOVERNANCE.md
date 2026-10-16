@@ -30,8 +30,21 @@ Do not silently promote a hypothesis, assumption, reported statement, or synthet
 
 A proposed design may also rely on assumptions or hypotheses. Keep those evidence states explicit.
 
-## Candidate-mode boundary
-Until JET is an authorized CCL employee with appropriate access, do not represent proposed designs as current CCL process; do not assume system fields, stages, integrations, ownership, metrics, or data quality; keep interview-derived information distinguishable from validated operating documentation; and avoid storing sensitive information that does not belong in this repository.
+## Operating modes and pre-start boundary
+**Current: Offer Accepted / Pre-Start Mode**, effective 2026-10-16. JET confirmed acceptance on 2026-10-15 and a scheduled start of 2026-10-26. These are JET-confirmed milestones; they do not establish employment commencement, internal access, delegated authority or CCL adoption of these designs.
+
+Use three distinct phases:
+1. **Candidate / Pre-Employment** — historical research and interview preparation.
+2. **Offer Accepted / Pre-Start** — current onboarding preparation, expectation alignment, learning and proposed 90-day planning.
+3. **Employee / Operating** — enter after JET confirms employment has begun; confirm authority, authorized access and information-handling rules before operational execution.
+
+Do not represent proposed designs as current CCL process or assume fields, stages, integrations, ownership, metrics or data quality. Preserve interview-derived provenance and SYNTHETIC labels. Acceptance does not validate operating assumptions or lift SIE HOLD.
+
+This repository is public as verified on 2026-10-16. Keep internal, confidential and personal CCL information out unless CCL-approved handling and an appropriate destination are established. Do not infer storage approval from employment or technical access.
+
+On transition, classify inherited material as **VALIDATED / PARTIALLY VALIDATED / DISPROVEN / STILL UNKNOWN / OBSOLETE**. These are review dispositions, separate from evidence states and design status. Record scope, evidence, date and the next validation step. See the [transition review](docs/offer-accepted-pre-start-transition-2026-10-16.md).
+
+Dated decisions and historical checkpoints retain their original context; current mode is governed here and in CURRENT.md. Proposed signal/motion/framework candidates are not employment-status labels.
 
 ## Change discipline
 Material changes to definitions, schemas, operating rules, entity identity, or architecture should be explainable through commit history and, when useful, a decision record under `decisions/`.

@@ -1,7 +1,7 @@
 # CCL GTM Motion Validation Worksheet v0.2
 
 **Date:** 2026-10-12
-**Mode:** Candidate / pre-employment
+**Mode:** Offer Accepted / Pre-Start
 **Design status:** PROPOSED discovery instrument; not approved CCL process.
 **Baseline:** [Product × GTM Motion Matrix v0.1](product-gtm-motion-matrix-v0.1.md)
 
@@ -144,4 +144,4 @@ See [test findings](gtm-motion-synthetic-tests-2026-10-12.md); synthetic tests r
 Build the minimum internal evidence request by motion, using these refined prompts. Confirm owners and permitted access before real discovery.
 
 ## Provenance
-Derived from the retrieved product-motion matrix and repository governance. No new stakeholder interview or internal transactional evidence was collected. Candidate/pre-employment mode and production SIE HOLD remain. Other paused workstreams are unaffected.
+Derived from the retrieved product-motion matrix and repository governance. No new stakeholder interview or internal transactional evidence was collected. Offer Accepted / Pre-Start mode and production SIE HOLD remain. Other paused workstreams are unaffected.

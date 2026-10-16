@@ -1,5 +1,5 @@
 # Customer Advocacy Validation — 2026-10-11
-Status: PUBLIC EVIDENCE VERIFIED; candidate-stage research, not operational CCL data.
+Status: PUBLIC EVIDENCE VERIFIED; pre-start research, not operational CCL data.
 SIE taxonomy v0.2 unchanged.
 
 | Customer | Verified public evidence | Signal interpretation | Referral permission |

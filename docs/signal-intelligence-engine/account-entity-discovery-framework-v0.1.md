@@ -1,7 +1,7 @@
 # CCL Account / Entity Discovery Framework v0.1
 
 **Status:** PROPOSED
-**Stage:** Candidate / pre-employment
+**Stage:** Offer Accepted / Pre-Start
 **Updated:** 2026-10-07
 **Purpose:** Define what must be discovered before creating a CCL Account/Entity Model. This is a discovery framework, not a representation of CCL's current data model.
 

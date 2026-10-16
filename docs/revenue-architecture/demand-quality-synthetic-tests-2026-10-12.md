@@ -1,6 +1,6 @@
 # Demand-quality diagnostic — synthetic test findings
 Date: 2026-10-12
-Mode: Candidate / pre-employment. All cases, events, timestamps and quantities below are SYNTHETIC. Design status: PROPOSED.
+Mode: Offer Accepted / Pre-Start. All cases, events, timestamps and quantities below are SYNTHETIC. Design status: PROPOSED.
 Instrument tested: [Demand-quality diagnostic](demand-quality-diagnostic-v0.1.md).
 Method: manual scenario walkthrough and metric arithmetic. This is a design calibration, not independent stakeholder agreement, software validation or real CCL performance analysis.
 

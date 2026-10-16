@@ -1,8 +1,8 @@
-# SIE Qualification Framework — CCL Candidate Design
+# SIE Qualification Framework — CCL Pre-Start Design
 
 **Status:** HYPOTHESIS / PROPOSED DESIGN — NOT CCL APPROVED  
 **Date:** 2026-10-10  
-**Owner:** Candidate-stage RevOps design; business owners and validators not assigned.  
+**Owner:** Pre-start RevOps design; business owners and validators not assigned.
 **Source:** JET's proposed three-layer qualification table (2026-10-10), refined with CCL stakeholder context. This is not a description of CCL's existing qualification policy.
 
 ## BLUF

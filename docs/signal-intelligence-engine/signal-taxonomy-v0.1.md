@@ -1,7 +1,7 @@
 # CCL Signal Taxonomy v0.1
 
 **Status:** PROPOSED
-**Stage:** Candidate / pre-employment
+**Stage:** Offer Accepted / Pre-Start
 **Updated:** 2026-10-07
 
 ## Purpose
@@ -21,7 +21,7 @@ Signal concepts below are classified using the governed evidence model:
 
 **PROPOSED** describes the design status of this taxonomy and is not an evidence state.
 
-## Candidate-stage evidence base
+## Pre-start evidence base
 The taxonomy is grounded primarily in:
 - CCL Director, Revenue Operations job description.
 - Sarah Nabors interview, 2026-09-04.
@@ -293,7 +293,7 @@ Stakeholder statements are treated as **REPORTED** unless independently supporte
 
 # Taxonomy Summary
 
-| Domain | Signal count | Candidate-stage evidence posture |
+| Domain | Signal count | Pre-start evidence posture |
 |---|---:|---|
 | Sales / Pipeline | 4 | Mostly KNOWN/REPORTED |
 | Marketing / Demand | 4 | Mostly KNOWN/REPORTED |
@@ -302,7 +302,7 @@ Stakeholder statements are treated as **REPORTED** unless independently supporte
 | Delivery / Capacity | 2 | KNOWN/REPORTED |
 | Data / Process | 3 | KNOWN/REPORTED + HYPOTHESIS |
 | External / Strategic | 2 | REPORTED |
-| **Total** | **21** | Candidate-stage, not production-ready |
+| **Total** | **21** | Pre-start, not production-ready |
 
 # Design decisions in v0.1
 
