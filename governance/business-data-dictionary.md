@@ -152,3 +152,15 @@ Transcript: Pocket recording `desktop_1791464387563_yal8lh`, **USMA Connect: Bil
 | Term | Category | State | Definition | Source | CCL Context | Related Terms | Open Question |
 |---|---|---|---|---|---|---|---|
 | D365 | Technology / CRM / Revenue Operations System | REPORTED | Microsoft Dynamics 365, Microsoft's family of business applications; in CCL discussions, shorthand for its current CRM platform. Do not conflate the application with Microsoft Dataverse, Power Platform, or Power BI. | CCL stakeholder discussions summarized during candidate-stage interviews; JET dictionary intake, 2026-10-18 | CCL's current CRM is reported to be a heavily customized D365 implementation. Actual installed modules, configuration, integrations, licenses, and system-of-record boundaries require onboarding validation. | Dynamics 365 Sales; Dataverse; Power Platform; Power BI; CRM; Forecast | Which D365 applications/modules are licensed and deployed, what customizations exist, who owns them, and where are data mappings and release documentation? |
+
+## CCL source glossary intake — 2026-10-27
+
+**Authoritative source reference:** [CCL Acronym Dictionary, 10.26.2026 — source-preserved import (326 rows)](https://drive.google.com/file/d/1Q-POOMEFFh2hEX5Tc_u2cxCMK1QWrazs/view?usp=drivesdk). This is a complete row-level transcription of the uploaded workbook, retaining terminology, descriptions, category, lifecycle status, date, source, item type and original path. It is stored in Google Drive as source material, not rewritten as approved RevOps policy.
+
+- **Coverage:** 326 rows: 202 Active, 110 Retired, 14 unspecified. Preserve all 326, including repeated abbreviations with different meanings; do not merge or silently discard retired records.
+- **Evidence:** SOURCE-DOCUMENTED in a CCL glossary (not equivalent to KNOWN current operational usage). The source's Active/Retired field is its own lifecycle classification, separate from our evidence status.
+- **Known collision:** **D365** is described by this glossary as “Dynamics 365 - CCL's new ERP (2020), replacing E4SE/EBO” (Active). Our earlier interview-based entry calls D365 CCL's customized CRM. **Do not overwrite either claim.** Investigate ERP/CRM scope, migration history, and authoritative current system architecture.
+- **Multiple meanings:** **LSP** appears as both “Leading Strategically Program” and “Leadership Solutions Provider” (both Active). Interpret with context; don't auto-expand.
+- **OE:** The source explicitly records **OE = Open Enrollment** (Active), confirming the abbreviation beyond JET's intake.
+- **Governance:** Use this linked glossary as a source reference. Promote individual entries into the governed business dictionary when needed for processes, metrics, entities, roles or systems; retain source wording, provenance, and unresolved conflicts.
+
